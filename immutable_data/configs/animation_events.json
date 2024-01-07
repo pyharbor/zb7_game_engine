@@ -1,0 +1,322 @@
+{
+    "SandstormDamage": {
+        "animation_type_as_int": 0,
+        "animation_type_as_text": "SandstormDamage",
+        "custom_data": "BasicIdsAmount"
+    },
+    "LightningDamage": {
+        "animation_type_as_int": 1,
+        "animation_type_as_text": "LightningDamage",
+        "custom_data": "BasicIdsAmount"
+    },
+    "FireDamage": {
+        "animation_type_as_int": 2,
+        "animation_type_as_text": "FireDamage",
+        "custom_data": "BasicIdsAmount"
+    },
+    "DebuffStats": {
+        "animation_type_as_int": 3,
+        "animation_type_as_text": "DebuffStats",
+        "custom_data": "StatsModification"
+    },
+    "NarwhalTusk": {
+        "animation_type_as_int": 4,
+        "animation_type_as_text": "NarwhalTusk",
+        "custom_data": "TargetSubjectAmount"
+    },
+    "SharkBite": {
+        "animation_type_as_int": 5,
+        "animation_type_as_text": "SharkBite",
+        "custom_data": "TargetSubjectAmount"
+    },
+    "ChlorotoxinEffect": {
+        "animation_type_as_int": 6,
+        "animation_type_as_text": "ChlorotoxinEffect",
+        "custom_data": "BattleId"
+    },
+    "EntangledWebEffect": {
+        "animation_type_as_int": 7,
+        "animation_type_as_text": "EntangledWebEffect",
+        "custom_data": "BattleId"
+    },
+    "AddSpecies": {
+        "animation_type_as_int": 8,
+        "animation_type_as_text": "AddSpecies",
+        "custom_data": "AddSpecies"
+    },
+    "AddStatus": {
+        "animation_type_as_int": 9,
+        "animation_type_as_text": "AddStatus",
+        "custom_data": "AddStatus"
+    },
+    "ReceiveStatusDamage": {
+        "animation_type_as_int": 10,
+        "animation_type_as_text": "ReceiveStatusDamage",
+        "custom_data": "ReceiveStatusDamage"
+    },
+    "GenericAbilityNotification": {
+        "animation_type_as_int": 11,
+        "animation_type_as_text": "GenericAbilityNotification",
+        "custom_data": "GenericAbilityNotification"
+    },
+    "FullBlock": {
+        "animation_type_as_int": 12,
+        "animation_type_as_text": "FullBlock",
+        "custom_data": "DamageReductionStack"
+    },
+    "UpgradeRelic": {
+        "animation_type_as_int": 13,
+        "animation_type_as_text": "UpgradeRelic",
+        "custom_data": "BasicIds"
+    },
+    "TreasureChest": {
+        "animation_type_as_int": 14,
+        "animation_type_as_text": "TreasureChest",
+        "custom_data": "StateId"
+    },
+    "Taunt": {
+        "animation_type_as_int": 15,
+        "animation_type_as_text": "Taunt",
+        "custom_data": "BasicIds"
+    },
+    "Overkill": {
+        "animation_type_as_int": 16,
+        "animation_type_as_text": "Overkill",
+        "custom_data": "TargetSubjectAmount"
+    },
+    "SetObjectData": {
+        "animation_type_as_int": 17,
+        "animation_type_as_text": "SetObjectData",
+        "custom_data": "StateId"
+    },
+    "ChumBucket": {
+        "animation_type_as_int": 18,
+        "animation_type_as_text": "ChumBucket",
+        "custom_data": "StateId"
+    },
+    "Dodge": {
+        "animation_type_as_int": 19,
+        "animation_type_as_text": "Dodge",
+        "custom_data": "BasicIdsAmount"
+    },
+    "Immune": {
+        "animation_type_as_int": 20,
+        "animation_type_as_text": "Immune",
+        "custom_data": "BasicIds"
+    },
+    "Faint": {
+        "animation_type_as_int": 21,
+        "animation_type_as_text": "Faint",
+        "custom_data": "BasicIds"
+    },
+    "ShopGainMoney": {
+        "animation_type_as_int": 22,
+        "animation_type_as_text": "ShopGainMoney",
+        "custom_data": "StateId"
+    },
+    "ReceiveDamage": {
+        "animation_type_as_int": 23,
+        "animation_type_as_text": "ReceiveDamage",
+        "custom_data": "DamageReductionStack"
+    },
+    "ReceiveUnblockableDamage": {
+        "animation_type_as_int": 24,
+        "animation_type_as_text": "ReceiveUnblockableDamage",
+        "custom_data": "BasicIdsAmount"
+    },
+    "SuddenDeath": {
+        "animation_type_as_int": 25,
+        "animation_type_as_text": "SuddenDeath",
+        "custom_data": "StateId"
+    },
+    "ShoalDeath": {
+        "animation_type_as_int": 26,
+        "animation_type_as_text": "ShoalDeath",
+        "custom_data": "BasicIds"
+    },
+    "Revive": {
+        "animation_type_as_int": 27,
+        "animation_type_as_text": "Revive",
+        "custom_data": "BasicIds"
+    },
+    "Heal": {
+        "animation_type_as_int": 28,
+        "animation_type_as_text": "Heal",
+        "custom_data": "BasicIdsAmount"
+    },
+    "Meteor": {
+        "animation_type_as_int": 29,
+        "animation_type_as_text": "Meteor",
+        "custom_data": "StateId"
+    },
+    "MeleeAttack": {
+        "animation_type_as_int": 30,
+        "animation_type_as_text": "MeleeAttack",
+        "custom_data": "TargetSubjectAmount"
+    },
+    "RangedAttack": {
+        "animation_type_as_int": 31,
+        "animation_type_as_text": "RangedAttack",
+        "custom_data": "TargetSubjectAmount"
+    },
+    "BuffStats": {
+        "animation_type_as_int": 32,
+        "animation_type_as_text": "BuffStats",
+        "custom_data": "StatsModification"
+    },
+    "BattleGainExperience": {
+        "animation_type_as_int": 33,
+        "animation_type_as_text": "BattleGainExperience",
+        "custom_data": "BasicIdsAmount"
+    },
+    "BattleStart": {
+        "animation_type_as_int": 34,
+        "animation_type_as_text": "BattleStart",
+        "custom_data": "StateId"
+    },
+    "BattleLost": {
+        "animation_type_as_int": 35,
+        "animation_type_as_text": "BattleLost",
+        "custom_data": "StateId"
+    },
+    "BattleDraw": {
+        "animation_type_as_int": 36,
+        "animation_type_as_text": "BattleDraw",
+        "custom_data": "StateId"
+    },
+    "BattleWon": {
+        "animation_type_as_int": 37,
+        "animation_type_as_text": "BattleWon",
+        "custom_data": "StateId"
+    },
+    "ShopBuy": {
+        "animation_type_as_int": 38,
+        "animation_type_as_text": "ShopBuy",
+        "custom_data": "StateId"
+    },
+    "ShopSell": {
+        "animation_type_as_int": 39,
+        "animation_type_as_text": "ShopSell",
+        "custom_data": "StateId"
+    },
+    "ShopMove": {
+        "animation_type_as_int": 40,
+        "animation_type_as_text": "ShopMove",
+        "custom_data": "StateId"
+    },
+    "ShopRoll": {
+        "animation_type_as_int": 41,
+        "animation_type_as_text": "ShopRoll",
+        "custom_data": "StateId"
+    },
+    "ShopEndOfTurn": {
+        "animation_type_as_int": 42,
+        "animation_type_as_text": "ShopEndOfTurn",
+        "custom_data": "StateId"
+    },
+    "ShopStartOfTurn": {
+        "animation_type_as_int": 43,
+        "animation_type_as_text": "ShopStartOfTurn",
+        "custom_data": "StateId"
+    },
+    "ShopUpdatedRecruit": {
+        "animation_type_as_int": 44,
+        "animation_type_as_text": "ShopUpdatedRecruit",
+        "custom_data": "BasicIds"
+    },
+    "ShopLevelUp": {
+        "animation_type_as_int": 45,
+        "animation_type_as_text": "ShopLevelUp",
+        "custom_data": "BasicIdsAmount"
+    },
+    "ShopGainExperience": {
+        "animation_type_as_int": 46,
+        "animation_type_as_text": "ShopGainExperience",
+        "custom_data": "BasicIdsAmount"
+    },
+    "PerfectCopy": {
+        "animation_type_as_int": 47,
+        "animation_type_as_text": "PerfectCopy",
+        "custom_data": "BasicIds"
+    },
+    "HymenopteraReinforcements": {
+        "animation_type_as_int": 48,
+        "animation_type_as_text": "HymenopteraReinforcements",
+        "custom_data": "BasicIds"
+    },
+    "Group": {
+        "animation_type_as_int": 49,
+        "animation_type_as_text": "Group",
+        "custom_data": "Group"
+    },
+    "BattleLevelUp": {
+        "animation_type_as_int": 50,
+        "animation_type_as_text": "BattleLevelUp",
+        "custom_data": "BasicIdsAmount"
+    },
+    "PufferfishAttack": {
+        "animation_type_as_int": 51,
+        "animation_type_as_text": "PufferfishAttack",
+        "custom_data": "TargetSubjectAmount"
+    },
+    "Consume": {
+        "animation_type_as_int": 52,
+        "animation_type_as_text": "Consume",
+        "custom_data": "TargetSubject"
+    },
+    "ScorpionSting": {
+        "animation_type_as_int": 53,
+        "animation_type_as_text": "ScorpionSting",
+        "custom_data": "TargetSubjectAmount"
+    },
+    "AddHabitat": {
+        "animation_type_as_int": 54,
+        "animation_type_as_text": "AddHabitat",
+        "custom_data": "AddHabitat"
+    },
+    "Vengeance": {
+        "animation_type_as_int": 55,
+        "animation_type_as_text": "Vengeance",
+        "custom_data": "BasicIds"
+    },
+    "AdaptToNewSpecies": {
+        "animation_type_as_int": 56,
+        "animation_type_as_text": "AdaptToNewSpecies",
+        "custom_data": "AdaptToNewSpecies"
+    },
+    "Construction": {
+        "animation_type_as_int": 57,
+        "animation_type_as_text": "Construction",
+        "custom_data": "BasicIds"
+    },
+    "SeaOtter": {
+        "animation_type_as_int": 58,
+        "animation_type_as_text": "SeaOtter",
+        "custom_data": "SeaOtter"
+    },
+    "BacterialInfection": {
+        "animation_type_as_int": 59,
+        "animation_type_as_text": "BacterialInfection",
+        "custom_data": "BasicIdsAmount"
+    },
+    "SnappingTurtle": {
+        "animation_type_as_int": 60,
+        "animation_type_as_text": "SnappingTurtle",
+        "custom_data": "TargetSubjectAmount"
+    },
+    "ShopUpdatedRelic": {
+        "animation_type_as_int": 61,
+        "animation_type_as_text": "ShopUpdatedRelic",
+        "custom_data": "BasicIds"
+    },
+    "SandDamage": {
+        "animation_type_as_int": 62,
+        "animation_type_as_text": "SandDamage",
+        "custom_data": "BasicIdsAmount"
+    },
+    "Swallow": {
+        "animation_type_as_int": 63,
+        "animation_type_as_text": "Swallow",
+        "custom_data": "TargetSubject"
+    }
+}

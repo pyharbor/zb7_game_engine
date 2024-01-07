@@ -1,0 +1,3448 @@
+{
+    "items": [
+        {
+            "item_id": "HermitCrab_1",
+            "price_in_token": 5,
+            "sub_type": "HermitCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HermitCrab_2",
+            "price_in_token": 5,
+            "sub_type": "HermitCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HermitCrab_3",
+            "price_in_token": 5,
+            "sub_type": "HermitCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HermitCrab_4",
+            "price_in_token": 5,
+            "sub_type": "HermitCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PoisonDartFrog_1",
+            "price_in_token": 5,
+            "sub_type": "PoisonDartFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PoisonDartFrog_2",
+            "price_in_token": 5,
+            "sub_type": "PoisonDartFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PoisonDartFrog_3",
+            "price_in_token": 5,
+            "sub_type": "PoisonDartFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PoisonDartFrog_4",
+            "price_in_token": 5,
+            "sub_type": "PoisonDartFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PoisonDartFrog_5",
+            "price_in_token": 5,
+            "sub_type": "PoisonDartFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlueWhale_1",
+            "price_in_token": 5,
+            "sub_type": "BlueWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlueWhale_2",
+            "price_in_token": 5,
+            "sub_type": "BlueWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlueWhale_3",
+            "price_in_token": 5,
+            "sub_type": "BlueWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Orca_1",
+            "price_in_token": 5,
+            "sub_type": "Orca",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Orca_2",
+            "price_in_token": 5,
+            "sub_type": "Orca",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Orca_3",
+            "price_in_token": 5,
+            "sub_type": "Orca",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Orca_4",
+            "price_in_token": 5,
+            "sub_type": "Orca",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Orca_5",
+            "price_in_token": 5,
+            "sub_type": "Orca",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Orca_6",
+            "price_in_token": 5,
+            "sub_type": "Orca",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Orca_7",
+            "price_in_token": 5,
+            "sub_type": "Orca",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SpermWhale_1",
+            "price_in_token": 5,
+            "sub_type": "SpermWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SpermWhale_2",
+            "price_in_token": 5,
+            "sub_type": "SpermWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SpermWhale_3",
+            "price_in_token": 5,
+            "sub_type": "SpermWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SpermWhale_4",
+            "price_in_token": 5,
+            "sub_type": "SpermWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Dolphin_1",
+            "price_in_token": 5,
+            "sub_type": "Dolphin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Dolphin_2",
+            "price_in_token": 5,
+            "sub_type": "Dolphin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Dolphin_3",
+            "price_in_token": 5,
+            "sub_type": "Dolphin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Dolphin_4",
+            "price_in_token": 5,
+            "sub_type": "Dolphin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Dolphin_5",
+            "price_in_token": 5,
+            "sub_type": "Dolphin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AsianForestScorpion_1",
+            "price_in_token": 5,
+            "sub_type": "AsianForestScorpion",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AsianForestScorpion_2",
+            "price_in_token": 5,
+            "sub_type": "AsianForestScorpion",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AsianForestScorpion_3",
+            "price_in_token": 5,
+            "sub_type": "AsianForestScorpion",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DeathWalkerScorpion_1",
+            "price_in_token": 5,
+            "sub_type": "DeathWalkerScorpion",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DeathWalkerScorpion_2",
+            "price_in_token": 5,
+            "sub_type": "DeathWalkerScorpion",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DeathWalkerScorpion_3",
+            "price_in_token": 5,
+            "sub_type": "DeathWalkerScorpion",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "JumpingSpider_1",
+            "price_in_token": 5,
+            "sub_type": "JumpingSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "JumpingSpider_2",
+            "price_in_token": 5,
+            "sub_type": "JumpingSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "JumpingSpider_3",
+            "price_in_token": 5,
+            "sub_type": "JumpingSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BandedGardenSpider_2",
+            "price_in_token": 5,
+            "sub_type": "BandedGardenSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BandedGardenSpider_1",
+            "price_in_token": 5,
+            "sub_type": "BandedGardenSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BandedGardenSpider_4",
+            "price_in_token": 5,
+            "sub_type": "BandedGardenSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BandedGardenSpider_3",
+            "price_in_token": 5,
+            "sub_type": "BandedGardenSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BandedGardenSpider_5",
+            "price_in_token": 5,
+            "sub_type": "BandedGardenSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DesertTarantula_2",
+            "price_in_token": 5,
+            "sub_type": "DesertTarantula",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DesertTarantula_1",
+            "price_in_token": 5,
+            "sub_type": "DesertTarantula",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DesertTarantula_3",
+            "price_in_token": 5,
+            "sub_type": "DesertTarantula",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SixEyedSandSpider_1",
+            "price_in_token": 5,
+            "sub_type": "SixEyedSandSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SixEyedSandSpider_2",
+            "price_in_token": 5,
+            "sub_type": "SixEyedSandSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SixEyedSandSpider_3",
+            "price_in_token": 5,
+            "sub_type": "SixEyedSandSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CrabSpider_1",
+            "price_in_token": 5,
+            "sub_type": "CrabSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CrabSpider_2",
+            "price_in_token": 5,
+            "sub_type": "CrabSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CrabSpider_3",
+            "price_in_token": 5,
+            "sub_type": "CrabSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CrabSpider_4",
+            "price_in_token": 5,
+            "sub_type": "CrabSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BrownRecluseSpider_1",
+            "price_in_token": 5,
+            "sub_type": "BrownRecluseSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BrownRecluseSpider_2",
+            "price_in_token": 5,
+            "sub_type": "BrownRecluseSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AnelosimusEximius_1",
+            "price_in_token": 5,
+            "sub_type": "AnelosimusEximius",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AnelosimusEximius_2",
+            "price_in_token": 5,
+            "sub_type": "AnelosimusEximius",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AnelosimusEximius_3",
+            "price_in_token": 5,
+            "sub_type": "AnelosimusEximius",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CoconutCrab_1",
+            "price_in_token": 5,
+            "sub_type": "CoconutCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CoconutCrab_3",
+            "price_in_token": 5,
+            "sub_type": "CoconutCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CoconutCrab_4",
+            "price_in_token": 5,
+            "sub_type": "CoconutCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HarlequinLandCrab_1",
+            "price_in_token": 5,
+            "sub_type": "HarlequinLandCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HarlequinLandCrab_3",
+            "price_in_token": 5,
+            "sub_type": "HarlequinLandCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HarlequinLandCrab_4",
+            "price_in_token": 5,
+            "sub_type": "HarlequinLandCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HarlequinLandCrab_2",
+            "price_in_token": 5,
+            "sub_type": "HarlequinLandCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HarlequinLandCrab_5",
+            "price_in_token": 5,
+            "sub_type": "HarlequinLandCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HarlequinLandCrab_6",
+            "price_in_token": 5,
+            "sub_type": "HarlequinLandCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackClawedCrab_1",
+            "price_in_token": 5,
+            "sub_type": "BlackClawedCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackClawedCrab_2",
+            "price_in_token": 5,
+            "sub_type": "BlackClawedCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackClawedCrab_3",
+            "price_in_token": 5,
+            "sub_type": "BlackClawedCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EasternBumblebee_1",
+            "price_in_token": 5,
+            "sub_type": "EasternBumblebee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EasternBumblebee_3",
+            "price_in_token": 5,
+            "sub_type": "EasternBumblebee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EasternBumblebee_2",
+            "price_in_token": 5,
+            "sub_type": "EasternBumblebee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PaperWasp_1",
+            "price_in_token": 5,
+            "sub_type": "PaperWasp",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PaperWasp_2",
+            "price_in_token": 5,
+            "sub_type": "PaperWasp",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PaperWasp_3",
+            "price_in_token": 5,
+            "sub_type": "PaperWasp",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CarpenterAnt_2",
+            "price_in_token": 5,
+            "sub_type": "CarpenterAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CarpenterAnt_3",
+            "price_in_token": 5,
+            "sub_type": "CarpenterAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CarpenterAnt_1",
+            "price_in_token": 5,
+            "sub_type": "CarpenterAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "VelvetAnt_1",
+            "price_in_token": 5,
+            "sub_type": "VelvetAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "VelvetAnt_2",
+            "price_in_token": 5,
+            "sub_type": "VelvetAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "VelvetAnt_4",
+            "price_in_token": 5,
+            "sub_type": "VelvetAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "VelvetAnt_3",
+            "price_in_token": 5,
+            "sub_type": "VelvetAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Barracuda_2",
+            "price_in_token": 5,
+            "sub_type": "Barracuda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Barracuda_1",
+            "price_in_token": 5,
+            "sub_type": "Barracuda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Barracuda_3",
+            "price_in_token": 5,
+            "sub_type": "Barracuda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Barracuda_4",
+            "price_in_token": 5,
+            "sub_type": "Barracuda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Barracuda_5",
+            "price_in_token": 5,
+            "sub_type": "Barracuda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantIsopod_2",
+            "price_in_token": 5,
+            "sub_type": "GiantIsopod",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantIsopod_1",
+            "price_in_token": 5,
+            "sub_type": "GiantIsopod",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantIsopod_3",
+            "price_in_token": 5,
+            "sub_type": "GiantIsopod",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SockeyeSalmon_3",
+            "price_in_token": 5,
+            "sub_type": "SockeyeSalmon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SockeyeSalmon_2",
+            "price_in_token": 5,
+            "sub_type": "SockeyeSalmon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SockeyeSalmon_1",
+            "price_in_token": 5,
+            "sub_type": "SockeyeSalmon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SockeyeSalmon_4",
+            "price_in_token": 5,
+            "sub_type": "SockeyeSalmon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreatHammerheadShark_1",
+            "price_in_token": 5,
+            "sub_type": "GreatHammerheadShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreatHammerheadShark_2",
+            "price_in_token": 5,
+            "sub_type": "GreatHammerheadShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreatHammerheadShark_3",
+            "price_in_token": 5,
+            "sub_type": "GreatHammerheadShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreatHammerheadShark_5",
+            "price_in_token": 5,
+            "sub_type": "GreatHammerheadShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreatHammerheadShark_4",
+            "price_in_token": 5,
+            "sub_type": "GreatHammerheadShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreatHammerheadShark_6",
+            "price_in_token": 5,
+            "sub_type": "GreatHammerheadShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreatWhiteShark_1",
+            "price_in_token": 5,
+            "sub_type": "GreatWhiteShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreatWhiteShark_3",
+            "price_in_token": 5,
+            "sub_type": "GreatWhiteShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreatWhiteShark_2",
+            "price_in_token": 5,
+            "sub_type": "GreatWhiteShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreatWhiteShark_4",
+            "price_in_token": 5,
+            "sub_type": "GreatWhiteShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreatWhiteShark_5",
+            "price_in_token": 5,
+            "sub_type": "GreatWhiteShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "WhaleShark_1",
+            "price_in_token": 5,
+            "sub_type": "WhaleShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "WhaleShark_2",
+            "price_in_token": 5,
+            "sub_type": "WhaleShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "WhaleShark_3",
+            "price_in_token": 5,
+            "sub_type": "WhaleShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "WhaleShark_4",
+            "price_in_token": 5,
+            "sub_type": "WhaleShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BaskingShark_1",
+            "price_in_token": 5,
+            "sub_type": "BaskingShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BaskingShark_2",
+            "price_in_token": 5,
+            "sub_type": "BaskingShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackTipReefShark_1",
+            "price_in_token": 5,
+            "sub_type": "BlackTipReefShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackTipReefShark_2",
+            "price_in_token": 5,
+            "sub_type": "BlackTipReefShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackTipReefShark_3",
+            "price_in_token": 5,
+            "sub_type": "BlackTipReefShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackTipReefShark_4",
+            "price_in_token": 5,
+            "sub_type": "BlackTipReefShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Baboon_1",
+            "price_in_token": 5,
+            "sub_type": "Baboon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Baboon_3",
+            "price_in_token": 5,
+            "sub_type": "Baboon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Baboon_2",
+            "price_in_token": 5,
+            "sub_type": "Baboon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Baboon_4",
+            "price_in_token": 5,
+            "sub_type": "Baboon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Baboon_5",
+            "price_in_token": 5,
+            "sub_type": "Baboon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HowlerMonkey_2",
+            "price_in_token": 5,
+            "sub_type": "HowlerMonkey",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HowlerMonkey_1",
+            "price_in_token": 5,
+            "sub_type": "HowlerMonkey",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HowlerMonkey_3",
+            "price_in_token": 5,
+            "sub_type": "HowlerMonkey",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HowlerMonkey_4",
+            "price_in_token": 5,
+            "sub_type": "HowlerMonkey",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ElephantSeal_1",
+            "price_in_token": 5,
+            "sub_type": "ElephantSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ElephantSeal_2",
+            "price_in_token": 5,
+            "sub_type": "ElephantSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LepoardSeal_1",
+            "price_in_token": 5,
+            "sub_type": "LepoardSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LepoardSeal_2",
+            "price_in_token": 5,
+            "sub_type": "LepoardSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Walrus_1",
+            "price_in_token": 5,
+            "sub_type": "Walrus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Walrus_2",
+            "price_in_token": 5,
+            "sub_type": "Walrus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Walrus_3",
+            "price_in_token": 5,
+            "sub_type": "Walrus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Walrus_4",
+            "price_in_token": 5,
+            "sub_type": "Walrus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Walrus_5",
+            "price_in_token": 5,
+            "sub_type": "Walrus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "FurSeal_1",
+            "price_in_token": 5,
+            "sub_type": "FurSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "FurSeal_2",
+            "price_in_token": 5,
+            "sub_type": "FurSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TreeFrog_1",
+            "price_in_token": 5,
+            "sub_type": "TreeFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TreeFrog_2",
+            "price_in_token": 5,
+            "sub_type": "TreeFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TreeFrog_3",
+            "price_in_token": 5,
+            "sub_type": "TreeFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TreeFrog_4",
+            "price_in_token": 5,
+            "sub_type": "TreeFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TreeFrog_5",
+            "price_in_token": 5,
+            "sub_type": "TreeFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TreeFrog_6",
+            "price_in_token": 5,
+            "sub_type": "TreeFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "JapaneseGiantSalamander_1",
+            "price_in_token": 5,
+            "sub_type": "JapaneseGiantSalamander",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "JapaneseGiantSalamander_2",
+            "price_in_token": 5,
+            "sub_type": "JapaneseGiantSalamander",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "JapaneseGiantSalamander_3",
+            "price_in_token": 5,
+            "sub_type": "JapaneseGiantSalamander",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Axolotl_2",
+            "price_in_token": 5,
+            "sub_type": "Axolotl",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Axolotl_1",
+            "price_in_token": 5,
+            "sub_type": "Axolotl",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Axolotl_3",
+            "price_in_token": 5,
+            "sub_type": "Axolotl",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Axolotl_4",
+            "price_in_token": 5,
+            "sub_type": "Axolotl",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Axolotl_5",
+            "price_in_token": 5,
+            "sub_type": "Axolotl",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Axolotl_6",
+            "price_in_token": 5,
+            "sub_type": "Axolotl",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AfricanBullFrog_2",
+            "price_in_token": 5,
+            "sub_type": "AfricanBullFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AfricanBullFrog_1",
+            "price_in_token": 5,
+            "sub_type": "AfricanBullFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AfricanBullFrog_3",
+            "price_in_token": 5,
+            "sub_type": "AfricanBullFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AfricanBullFrog_4",
+            "price_in_token": 5,
+            "sub_type": "AfricanBullFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AtlanticHerring_1",
+            "price_in_token": 5,
+            "sub_type": "AtlanticHerring",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AtlanticHerring_2",
+            "price_in_token": 5,
+            "sub_type": "AtlanticHerring",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AtlanticHerring_3",
+            "price_in_token": 5,
+            "sub_type": "AtlanticHerring",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AtlanticBluefinTuna_1",
+            "price_in_token": 5,
+            "sub_type": "AtlanticBluefinTuna",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AtlanticBluefinTuna_2",
+            "price_in_token": 5,
+            "sub_type": "AtlanticBluefinTuna",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AtlanticBluefinTuna_3",
+            "price_in_token": 5,
+            "sub_type": "AtlanticBluefinTuna",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AtlanticBluefinTuna_4",
+            "price_in_token": 5,
+            "sub_type": "AtlanticBluefinTuna",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AtlanticBluefinTuna_5",
+            "price_in_token": 5,
+            "sub_type": "AtlanticBluefinTuna",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BaleenWhale_1",
+            "price_in_token": 5,
+            "sub_type": "BaleenWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BaleenWhale_2",
+            "price_in_token": 5,
+            "sub_type": "BaleenWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BaleenWhale_3",
+            "price_in_token": 5,
+            "sub_type": "BaleenWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Narwhal_1",
+            "price_in_token": 5,
+            "sub_type": "Narwhal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Narwhal_2",
+            "price_in_token": 5,
+            "sub_type": "Narwhal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Narwhal_3",
+            "price_in_token": 5,
+            "sub_type": "Narwhal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Narwhal_4",
+            "price_in_token": 5,
+            "sub_type": "Narwhal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AlaskanKingCrab_1",
+            "price_in_token": 5,
+            "sub_type": "AlaskanKingCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AlaskanKingCrab_2",
+            "price_in_token": 5,
+            "sub_type": "AlaskanKingCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AlaskanKingCrab_3",
+            "price_in_token": 5,
+            "sub_type": "AlaskanKingCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "JapaneseSpiderCrab_1",
+            "price_in_token": 5,
+            "sub_type": "JapaneseSpiderCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "JapaneseSpiderCrab_2",
+            "price_in_token": 5,
+            "sub_type": "JapaneseSpiderCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "JapaneseSpiderCrab_3",
+            "price_in_token": 5,
+            "sub_type": "JapaneseSpiderCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TasmanianGiantCrab_1",
+            "price_in_token": 5,
+            "sub_type": "TasmanianGiantCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TasmanianGiantCrab_2",
+            "price_in_token": 5,
+            "sub_type": "TasmanianGiantCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TasmanianGiantCrab_3",
+            "price_in_token": 5,
+            "sub_type": "TasmanianGiantCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TasmanianGiantCrab_4",
+            "price_in_token": 5,
+            "sub_type": "TasmanianGiantCrab",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Krill_1",
+            "price_in_token": 5,
+            "sub_type": "Krill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Krill_2",
+            "price_in_token": 5,
+            "sub_type": "Krill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Krill_3",
+            "price_in_token": 5,
+            "sub_type": "Krill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Nautilus_1",
+            "price_in_token": 5,
+            "sub_type": "Nautilus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Nautilus_2",
+            "price_in_token": 5,
+            "sub_type": "Nautilus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Nautilus_3",
+            "price_in_token": 5,
+            "sub_type": "Nautilus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoldenPoisonFrog_1",
+            "price_in_token": 5,
+            "sub_type": "GoldenPoisonFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoldenPoisonFrog_2",
+            "price_in_token": 5,
+            "sub_type": "GoldenPoisonFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoldenPoisonFrog_3",
+            "price_in_token": 5,
+            "sub_type": "GoldenPoisonFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoldenPoisonFrog_4",
+            "price_in_token": 5,
+            "sub_type": "GoldenPoisonFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoldenPoisonFrog_5",
+            "price_in_token": 5,
+            "sub_type": "GoldenPoisonFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RoughSkinnedNewt_1",
+            "price_in_token": 5,
+            "sub_type": "RoughSkinnedNewt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RoughSkinnedNewt_2",
+            "price_in_token": 5,
+            "sub_type": "RoughSkinnedNewt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RoughSkinnedNewt_3",
+            "price_in_token": 5,
+            "sub_type": "RoughSkinnedNewt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RoughSkinnedNewt_4",
+            "price_in_token": 5,
+            "sub_type": "RoughSkinnedNewt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ForestRainFrog_1",
+            "price_in_token": 5,
+            "sub_type": "ForestRainFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ForestRainFrog_2",
+            "price_in_token": 5,
+            "sub_type": "ForestRainFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ForestRainFrog_3",
+            "price_in_token": 5,
+            "sub_type": "ForestRainFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ForestRainFrog_4",
+            "price_in_token": 5,
+            "sub_type": "ForestRainFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ForestRainFrog_5",
+            "price_in_token": 5,
+            "sub_type": "ForestRainFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GlassFrog_1",
+            "price_in_token": 5,
+            "sub_type": "GlassFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GlassFrog_2",
+            "price_in_token": 5,
+            "sub_type": "GlassFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GlassFrog_3",
+            "price_in_token": 5,
+            "sub_type": "GlassFrog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "QueenAnt_1",
+            "price_in_token": 5,
+            "sub_type": "QueenAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "QueenAnt_2",
+            "price_in_token": 5,
+            "sub_type": "QueenAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "QueenAnt_3",
+            "price_in_token": 5,
+            "sub_type": "QueenAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GhostAnt_1",
+            "price_in_token": 5,
+            "sub_type": "GhostAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BullAnt_1",
+            "price_in_token": 5,
+            "sub_type": "BullAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TarantulaHawk_1",
+            "price_in_token": 5,
+            "sub_type": "TarantulaHawk",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TarantulaHawk_2",
+            "price_in_token": 5,
+            "sub_type": "TarantulaHawk",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "YellowJacket_1",
+            "price_in_token": 5,
+            "sub_type": "YellowJacket",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "YellowJacket_2",
+            "price_in_token": 5,
+            "sub_type": "YellowJacket",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "YellowJacket_3",
+            "price_in_token": 5,
+            "sub_type": "YellowJacket",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantOceanicMantaRay_1",
+            "price_in_token": 5,
+            "sub_type": "GiantOceanicMantaRay",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantOceanicMantaRay_2",
+            "price_in_token": 5,
+            "sub_type": "GiantOceanicMantaRay",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TigerShark_1",
+            "price_in_token": 5,
+            "sub_type": "TigerShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "TigerShark_2",
+            "price_in_token": 5,
+            "sub_type": "TigerShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BullShark_1",
+            "price_in_token": 5,
+            "sub_type": "BullShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BullShark_2",
+            "price_in_token": 5,
+            "sub_type": "BullShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NurseShark_1",
+            "price_in_token": 5,
+            "sub_type": "NurseShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NurseShark_2",
+            "price_in_token": 5,
+            "sub_type": "NurseShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NurseShark_3",
+            "price_in_token": 5,
+            "sub_type": "NurseShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BeardedSeal_1",
+            "price_in_token": 5,
+            "sub_type": "BeardedSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BeardedSeal_2",
+            "price_in_token": 5,
+            "sub_type": "BeardedSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BeardedSeal_4",
+            "price_in_token": 5,
+            "sub_type": "BeardedSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BeardedSeal_3",
+            "price_in_token": 5,
+            "sub_type": "BeardedSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CrabEaterSeal_2",
+            "price_in_token": 5,
+            "sub_type": "CrabEaterSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CrabEaterSeal_1",
+            "price_in_token": 5,
+            "sub_type": "CrabEaterSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HarpSeal_1",
+            "price_in_token": 5,
+            "sub_type": "HarpSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HarpSeal_2",
+            "price_in_token": 5,
+            "sub_type": "HarpSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HarpSeal_3",
+            "price_in_token": 5,
+            "sub_type": "HarpSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HarpSeal_4",
+            "price_in_token": 5,
+            "sub_type": "HarpSeal",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SouthAmericanSeaLion_1",
+            "price_in_token": 5,
+            "sub_type": "SouthAmericanSeaLion",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SouthAmericanSeaLion_2",
+            "price_in_token": 5,
+            "sub_type": "SouthAmericanSeaLion",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SouthAmericanSeaLion_3",
+            "price_in_token": 5,
+            "sub_type": "SouthAmericanSeaLion",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SeaOtter_1",
+            "price_in_token": 5,
+            "sub_type": "SeaOtter",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SeaOtter_2",
+            "price_in_token": 5,
+            "sub_type": "SeaOtter",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SeaOtter_3",
+            "price_in_token": 5,
+            "sub_type": "SeaOtter",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SeaOtter_4",
+            "price_in_token": 5,
+            "sub_type": "SeaOtter",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SeaOtter_5",
+            "price_in_token": 5,
+            "sub_type": "SeaOtter",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BowheadWhale_1",
+            "price_in_token": 5,
+            "sub_type": "BowheadWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BowheadWhale_2",
+            "price_in_token": 5,
+            "sub_type": "BowheadWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BelugaWhale_1",
+            "price_in_token": 5,
+            "sub_type": "BelugaWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BelugaWhale_2",
+            "price_in_token": 5,
+            "sub_type": "BelugaWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BelugaWhale_3",
+            "price_in_token": 5,
+            "sub_type": "BelugaWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreenAnaconda_1",
+            "price_in_token": 5,
+            "sub_type": "GreenAnaconda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreenAnaconda_2",
+            "price_in_token": 5,
+            "sub_type": "GreenAnaconda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreenAnaconda_3",
+            "price_in_token": 5,
+            "sub_type": "GreenAnaconda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreenAnaconda_4",
+            "price_in_token": 5,
+            "sub_type": "GreenAnaconda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreenAnaconda_5",
+            "price_in_token": 5,
+            "sub_type": "GreenAnaconda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BurmesePython_1",
+            "price_in_token": 5,
+            "sub_type": "BurmesePython",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BurmesePython_2",
+            "price_in_token": 5,
+            "sub_type": "BurmesePython",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BurmesePython_3",
+            "price_in_token": 5,
+            "sub_type": "BurmesePython",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AlligatorSnappingTurtle_1",
+            "price_in_token": 5,
+            "sub_type": "AlligatorSnappingTurtle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AlligatorSnappingTurtle_2",
+            "price_in_token": 5,
+            "sub_type": "AlligatorSnappingTurtle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AlligatorSnappingTurtle_3",
+            "price_in_token": 5,
+            "sub_type": "AlligatorSnappingTurtle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SaltwaterCrocodile_1",
+            "price_in_token": 5,
+            "sub_type": "SaltwaterCrocodile",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SaltwaterCrocodile_2",
+            "price_in_token": 5,
+            "sub_type": "SaltwaterCrocodile",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SaltwaterCrocodile_3",
+            "price_in_token": 5,
+            "sub_type": "SaltwaterCrocodile",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NileCrocodile_1",
+            "price_in_token": 5,
+            "sub_type": "NileCrocodile",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NileCrocodile_2",
+            "price_in_token": 5,
+            "sub_type": "NileCrocodile",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NileCrocodile_3",
+            "price_in_token": 5,
+            "sub_type": "NileCrocodile",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NileCrocodile_5",
+            "price_in_token": 5,
+            "sub_type": "NileCrocodile",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NileCrocodile_4",
+            "price_in_token": 5,
+            "sub_type": "NileCrocodile",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NileCrocodile_6",
+            "price_in_token": 5,
+            "sub_type": "NileCrocodile",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EasternBoxTurtle_1",
+            "price_in_token": 5,
+            "sub_type": "EasternBoxTurtle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EasternBoxTurtle_2",
+            "price_in_token": 5,
+            "sub_type": "EasternBoxTurtle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EasternBoxTurtle_3",
+            "price_in_token": 5,
+            "sub_type": "EasternBoxTurtle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ToadFacedTurtle_1",
+            "price_in_token": 5,
+            "sub_type": "ToadFacedTurtle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ToadFacedTurtle_2",
+            "price_in_token": 5,
+            "sub_type": "ToadFacedTurtle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RainbowAgama_1",
+            "price_in_token": 5,
+            "sub_type": "RainbowAgama",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RainbowAgama_2",
+            "price_in_token": 5,
+            "sub_type": "RainbowAgama",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RainbowAgama_3",
+            "price_in_token": 5,
+            "sub_type": "RainbowAgama",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RainbowAgama_4",
+            "price_in_token": 5,
+            "sub_type": "RainbowAgama",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RainbowAgama_5",
+            "price_in_token": 5,
+            "sub_type": "RainbowAgama",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LeatherbackSeaTurtle_1",
+            "price_in_token": 5,
+            "sub_type": "LeatherbackSeaTurtle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LeatherbackSeaTurtle_2",
+            "price_in_token": 5,
+            "sub_type": "LeatherbackSeaTurtle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LeatherbackSeaTurtle_3",
+            "price_in_token": 5,
+            "sub_type": "LeatherbackSeaTurtle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AldabraGiantTortoise_1",
+            "price_in_token": 5,
+            "sub_type": "AldabraGiantTortoise",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AldabraGiantTortoise_2",
+            "price_in_token": 5,
+            "sub_type": "AldabraGiantTortoise",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AldabraGiantTortoise_3",
+            "price_in_token": 5,
+            "sub_type": "AldabraGiantTortoise",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AldabraGiantTortoise_6",
+            "price_in_token": 5,
+            "sub_type": "AldabraGiantTortoise",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AldabraGiantTortoise_4",
+            "price_in_token": 5,
+            "sub_type": "AldabraGiantTortoise",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AldabraGiantTortoise_5",
+            "price_in_token": 5,
+            "sub_type": "AldabraGiantTortoise",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "MorayEel_2",
+            "price_in_token": 5,
+            "sub_type": "MorayEel",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "MorayEel_1",
+            "price_in_token": 5,
+            "sub_type": "MorayEel",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "MorayEel_3",
+            "price_in_token": 5,
+            "sub_type": "MorayEel",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "MorayEel_4",
+            "price_in_token": 5,
+            "sub_type": "MorayEel",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "MorayEel_5",
+            "price_in_token": 5,
+            "sub_type": "MorayEel",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "MorayEel_6",
+            "price_in_token": 5,
+            "sub_type": "MorayEel",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AnglerFish_3",
+            "price_in_token": 5,
+            "sub_type": "AnglerFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AnglerFish_1",
+            "price_in_token": 5,
+            "sub_type": "AnglerFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AnglerFish_2",
+            "price_in_token": 5,
+            "sub_type": "AnglerFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AnglerFish_4",
+            "price_in_token": 5,
+            "sub_type": "AnglerFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AnglerFish_5",
+            "price_in_token": 5,
+            "sub_type": "AnglerFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AnglerFish_6",
+            "price_in_token": 5,
+            "sub_type": "AnglerFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AnglerFish_7",
+            "price_in_token": 5,
+            "sub_type": "AnglerFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PufferFish_2",
+            "price_in_token": 5,
+            "sub_type": "PufferFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PufferFish_1",
+            "price_in_token": 5,
+            "sub_type": "PufferFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PufferFish_3",
+            "price_in_token": 5,
+            "sub_type": "PufferFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PufferFish_4",
+            "price_in_token": 5,
+            "sub_type": "PufferFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PufferFish_5",
+            "price_in_token": 5,
+            "sub_type": "PufferFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PufferFish_6",
+            "price_in_token": 5,
+            "sub_type": "PufferFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AlligatorGar_2",
+            "price_in_token": 5,
+            "sub_type": "AlligatorGar",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AlligatorGar_1",
+            "price_in_token": 5,
+            "sub_type": "AlligatorGar",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AlligatorGar_3",
+            "price_in_token": 5,
+            "sub_type": "AlligatorGar",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AlligatorGar_4",
+            "price_in_token": 5,
+            "sub_type": "AlligatorGar",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AlligatorGar_5",
+            "price_in_token": 5,
+            "sub_type": "AlligatorGar",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RoyalGramma_2",
+            "price_in_token": 5,
+            "sub_type": "RoyalGramma",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RoyalGramma_1",
+            "price_in_token": 5,
+            "sub_type": "RoyalGramma",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RoyalGramma_3",
+            "price_in_token": 5,
+            "sub_type": "RoyalGramma",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SunFish_1",
+            "price_in_token": 5,
+            "sub_type": "SunFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SunFish_2",
+            "price_in_token": 5,
+            "sub_type": "SunFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SunFish_3",
+            "price_in_token": 5,
+            "sub_type": "SunFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SunFish_4",
+            "price_in_token": 5,
+            "sub_type": "SunFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SunFish_5",
+            "price_in_token": 5,
+            "sub_type": "SunFish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Bonobo_1",
+            "price_in_token": 5,
+            "sub_type": "Bonobo",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Bonobo_2",
+            "price_in_token": 5,
+            "sub_type": "Bonobo",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Bonobo_3",
+            "price_in_token": 5,
+            "sub_type": "Bonobo",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Chimpanzee_1",
+            "price_in_token": 5,
+            "sub_type": "Chimpanzee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Chimpanzee_2",
+            "price_in_token": 5,
+            "sub_type": "Chimpanzee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Chimpanzee_3",
+            "price_in_token": 5,
+            "sub_type": "Chimpanzee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Chimpanzee_4",
+            "price_in_token": 5,
+            "sub_type": "Chimpanzee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Chimpanzee_5",
+            "price_in_token": 5,
+            "sub_type": "Chimpanzee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EasternGorilla_1",
+            "price_in_token": 5,
+            "sub_type": "EasternGorilla",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EasternGorilla_2",
+            "price_in_token": 5,
+            "sub_type": "EasternGorilla",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EasternGorilla_3",
+            "price_in_token": 5,
+            "sub_type": "EasternGorilla",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EasternGorilla_4",
+            "price_in_token": 5,
+            "sub_type": "EasternGorilla",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EasternGorilla_5",
+            "price_in_token": 5,
+            "sub_type": "EasternGorilla",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LarGibon_1",
+            "price_in_token": 5,
+            "sub_type": "LarGibon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LarGibon_2",
+            "price_in_token": 5,
+            "sub_type": "LarGibon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LarGibon_3",
+            "price_in_token": 5,
+            "sub_type": "LarGibon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LarGibon_4",
+            "price_in_token": 5,
+            "sub_type": "LarGibon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LarGibon_5",
+            "price_in_token": 5,
+            "sub_type": "LarGibon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Orangutan_1",
+            "price_in_token": 5,
+            "sub_type": "Orangutan",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Orangutan_2",
+            "price_in_token": 5,
+            "sub_type": "Orangutan",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Orangutan_3",
+            "price_in_token": 5,
+            "sub_type": "Orangutan",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Orangutan_4",
+            "price_in_token": 5,
+            "sub_type": "Orangutan",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Mandrill_1",
+            "price_in_token": 5,
+            "sub_type": "Mandrill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Mandrill_2",
+            "price_in_token": 5,
+            "sub_type": "Mandrill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Mandrill_3",
+            "price_in_token": 5,
+            "sub_type": "Mandrill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Mandrill_4",
+            "price_in_token": 5,
+            "sub_type": "Mandrill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Mandrill_5",
+            "price_in_token": 5,
+            "sub_type": "Mandrill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Mandrill_6",
+            "price_in_token": 5,
+            "sub_type": "Mandrill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ProboscisMonkey_1",
+            "price_in_token": 5,
+            "sub_type": "ProboscisMonkey",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ProboscisMonkey_2",
+            "price_in_token": 5,
+            "sub_type": "ProboscisMonkey",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ProboscisMonkey_3",
+            "price_in_token": 5,
+            "sub_type": "ProboscisMonkey",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ProboscisMonkey_4",
+            "price_in_token": 5,
+            "sub_type": "ProboscisMonkey",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantSquid_1",
+            "price_in_token": 5,
+            "sub_type": "GiantSquid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantSquid_2",
+            "price_in_token": 5,
+            "sub_type": "GiantSquid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantSquid_3",
+            "price_in_token": 5,
+            "sub_type": "GiantSquid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlueRingedOctopus_2",
+            "price_in_token": 5,
+            "sub_type": "BlueRingedOctopus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlueRingedOctopus_1",
+            "price_in_token": 5,
+            "sub_type": "BlueRingedOctopus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlueRingedOctopus_4",
+            "price_in_token": 5,
+            "sub_type": "BlueRingedOctopus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlueRingedOctopus_3",
+            "price_in_token": 5,
+            "sub_type": "BlueRingedOctopus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlueRingedOctopus_5",
+            "price_in_token": 5,
+            "sub_type": "BlueRingedOctopus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ConeSnail_1",
+            "price_in_token": 5,
+            "sub_type": "ConeSnail",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ConeSnail_2",
+            "price_in_token": 5,
+            "sub_type": "ConeSnail",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Cuttlefish_1",
+            "price_in_token": 5,
+            "sub_type": "Cuttlefish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Cuttlefish_2",
+            "price_in_token": 5,
+            "sub_type": "Cuttlefish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Cuttlefish_3",
+            "price_in_token": 5,
+            "sub_type": "Cuttlefish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantAfricanSnail_1",
+            "price_in_token": 5,
+            "sub_type": "GiantAfricanSnail",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantAfricanSnail_2",
+            "price_in_token": 5,
+            "sub_type": "GiantAfricanSnail",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantPacificOctopus_1",
+            "price_in_token": 5,
+            "sub_type": "GiantPacificOctopus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantPacificOctopus_2",
+            "price_in_token": 5,
+            "sub_type": "GiantPacificOctopus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantPacificOctopus_3",
+            "price_in_token": 5,
+            "sub_type": "GiantPacificOctopus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantClam_1",
+            "price_in_token": 5,
+            "sub_type": "GiantClam",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantClam_2",
+            "price_in_token": 5,
+            "sub_type": "GiantClam",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantClam_3",
+            "price_in_token": 5,
+            "sub_type": "GiantClam",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "VampireSquid_2",
+            "price_in_token": 5,
+            "sub_type": "VampireSquid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "VampireSquid_1",
+            "price_in_token": 5,
+            "sub_type": "VampireSquid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "VampireSquid_3",
+            "price_in_token": 5,
+            "sub_type": "VampireSquid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "VampireSquid_4",
+            "price_in_token": 5,
+            "sub_type": "VampireSquid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "VampireSquid_5",
+            "price_in_token": 5,
+            "sub_type": "VampireSquid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "WanderingAlbatross_1",
+            "price_in_token": 5,
+            "sub_type": "WanderingAlbatross",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "WanderingAlbatross_2",
+            "price_in_token": 5,
+            "sub_type": "WanderingAlbatross",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "WanderingAlbatross_3",
+            "price_in_token": 5,
+            "sub_type": "WanderingAlbatross",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "WanderingAlbatross_4",
+            "price_in_token": 5,
+            "sub_type": "WanderingAlbatross",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AndeanCondor_1",
+            "price_in_token": 5,
+            "sub_type": "AndeanCondor",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AndeanCondor_2",
+            "price_in_token": 5,
+            "sub_type": "AndeanCondor",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AndeanCondor_3",
+            "price_in_token": 5,
+            "sub_type": "AndeanCondor",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AndeanCondor_4",
+            "price_in_token": 5,
+            "sub_type": "AndeanCondor",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GriffonVulture_1",
+            "price_in_token": 5,
+            "sub_type": "GriffonVulture",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GriffonVulture_2",
+            "price_in_token": 5,
+            "sub_type": "GriffonVulture",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GriffonVulture_3",
+            "price_in_token": 5,
+            "sub_type": "GriffonVulture",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreaterFlamingo_1",
+            "price_in_token": 5,
+            "sub_type": "GreaterFlamingo",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreaterFlamingo_2",
+            "price_in_token": 5,
+            "sub_type": "GreaterFlamingo",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreaterFlamingo_3",
+            "price_in_token": 5,
+            "sub_type": "GreaterFlamingo",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreaterFlamingo_4",
+            "price_in_token": 5,
+            "sub_type": "GreaterFlamingo",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreaterFlamingo_5",
+            "price_in_token": 5,
+            "sub_type": "GreaterFlamingo",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreaterFlamingo_6",
+            "price_in_token": 5,
+            "sub_type": "GreaterFlamingo",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RedBilledQuelea_2",
+            "price_in_token": 5,
+            "sub_type": "RedBilledQuelea",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RedBilledQuelea_1",
+            "price_in_token": 5,
+            "sub_type": "RedBilledQuelea",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RedBilledQuelea_3",
+            "price_in_token": 5,
+            "sub_type": "RedBilledQuelea",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RedBilledQuelea_4",
+            "price_in_token": 5,
+            "sub_type": "RedBilledQuelea",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "RedBilledQuelea_5",
+            "price_in_token": 5,
+            "sub_type": "RedBilledQuelea",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BurrowingOwl_1",
+            "price_in_token": 5,
+            "sub_type": "BurrowingOwl",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BurrowingOwl_2",
+            "price_in_token": 5,
+            "sub_type": "BurrowingOwl",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BurrowingOwl_3",
+            "price_in_token": 5,
+            "sub_type": "BurrowingOwl",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BurrowingOwl_4",
+            "price_in_token": 5,
+            "sub_type": "BurrowingOwl",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BurrowingOwl_5",
+            "price_in_token": 5,
+            "sub_type": "BurrowingOwl",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ArcticTern_1",
+            "price_in_token": 5,
+            "sub_type": "ArcticTern",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ArcticTern_2",
+            "price_in_token": 5,
+            "sub_type": "ArcticTern",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ArcticTern_3",
+            "price_in_token": 5,
+            "sub_type": "ArcticTern",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoldenEagle_1",
+            "price_in_token": 5,
+            "sub_type": "GoldenEagle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoldenEagle_3",
+            "price_in_token": 5,
+            "sub_type": "GoldenEagle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoldenEagle_2",
+            "price_in_token": 5,
+            "sub_type": "GoldenEagle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoldenEagle_4",
+            "price_in_token": 5,
+            "sub_type": "GoldenEagle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoldenEagle_5",
+            "price_in_token": 5,
+            "sub_type": "GoldenEagle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoldenEagle_6",
+            "price_in_token": 5,
+            "sub_type": "GoldenEagle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Chickadee_1",
+            "price_in_token": 5,
+            "sub_type": "Chickadee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Chickadee_2",
+            "price_in_token": 5,
+            "sub_type": "Chickadee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Chickadee_3",
+            "price_in_token": 5,
+            "sub_type": "Chickadee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Chickadee_4",
+            "price_in_token": 5,
+            "sub_type": "Chickadee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Chickadee_5",
+            "price_in_token": 5,
+            "sub_type": "Chickadee",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Katydid_1",
+            "price_in_token": 5,
+            "sub_type": "Katydid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Katydid_2",
+            "price_in_token": 5,
+            "sub_type": "Katydid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Katydid_3",
+            "price_in_token": 5,
+            "sub_type": "Katydid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DesertLocust_1",
+            "price_in_token": 5,
+            "sub_type": "DesertLocust",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DesertLocust_2",
+            "price_in_token": 5,
+            "sub_type": "DesertLocust",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DesertLocust_3",
+            "price_in_token": 5,
+            "sub_type": "DesertLocust",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ShieldMantis_1",
+            "price_in_token": 5,
+            "sub_type": "ShieldMantis",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ShieldMantis_2",
+            "price_in_token": 5,
+            "sub_type": "ShieldMantis",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ShieldMantis_3",
+            "price_in_token": 5,
+            "sub_type": "ShieldMantis",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "OrchidMantis_1",
+            "price_in_token": 5,
+            "sub_type": "OrchidMantis",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "OrchidMantis_2",
+            "price_in_token": 5,
+            "sub_type": "OrchidMantis",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EuropeanMantis_1",
+            "price_in_token": 5,
+            "sub_type": "EuropeanMantis",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EuropeanMantis_2",
+            "price_in_token": 5,
+            "sub_type": "EuropeanMantis",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LeafInsect_1",
+            "price_in_token": 5,
+            "sub_type": "LeafInsect",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LeafInsect_2",
+            "price_in_token": 5,
+            "sub_type": "LeafInsect",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LeafInsect_3",
+            "price_in_token": 5,
+            "sub_type": "LeafInsect",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LeafInsect_4",
+            "price_in_token": 5,
+            "sub_type": "LeafInsect",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantWalkingStick_1",
+            "price_in_token": 5,
+            "sub_type": "GiantWalkingStick",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantWalkingStick_2",
+            "price_in_token": 5,
+            "sub_type": "GiantWalkingStick",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HissingCockroach_1",
+            "price_in_token": 5,
+            "sub_type": "HissingCockroach",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "MoleCricket_1",
+            "price_in_token": 5,
+            "sub_type": "MoleCricket",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "MoleCricket_2",
+            "price_in_token": 5,
+            "sub_type": "MoleCricket",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "MoleCricket_3",
+            "price_in_token": 5,
+            "sub_type": "MoleCricket",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HerculesBeetle_1",
+            "price_in_token": 5,
+            "sub_type": "HerculesBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HerculesBeetle_2",
+            "price_in_token": 5,
+            "sub_type": "HerculesBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BombardierBeetle_1",
+            "price_in_token": 5,
+            "sub_type": "BombardierBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Firefly_1",
+            "price_in_token": 5,
+            "sub_type": "Firefly",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Firefly_2",
+            "price_in_token": 5,
+            "sub_type": "Firefly",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LonghornBeetle_1",
+            "price_in_token": 5,
+            "sub_type": "LonghornBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LonghornBeetle_2",
+            "price_in_token": 5,
+            "sub_type": "LonghornBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LadyBug_1",
+            "price_in_token": 5,
+            "sub_type": "LadyBug",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LadyBug_2",
+            "price_in_token": 5,
+            "sub_type": "LadyBug",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "LadyBug_3",
+            "price_in_token": 5,
+            "sub_type": "LadyBug",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoliathBeetle_1",
+            "price_in_token": 5,
+            "sub_type": "GoliathBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoliathBeetle_2",
+            "price_in_token": 5,
+            "sub_type": "GoliathBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoliathBeetle_3",
+            "price_in_token": 5,
+            "sub_type": "GoliathBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GoliathBeetle_4",
+            "price_in_token": 5,
+            "sub_type": "GoliathBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiraffeBeetle_2",
+            "price_in_token": 5,
+            "sub_type": "GiraffeBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiraffeBeetle_3",
+            "price_in_token": 5,
+            "sub_type": "GiraffeBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiraffeBeetle_1",
+            "price_in_token": 5,
+            "sub_type": "GiraffeBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiraffeBeetle_5",
+            "price_in_token": 5,
+            "sub_type": "GiraffeBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiraffeBeetle_4",
+            "price_in_token": 5,
+            "sub_type": "GiraffeBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DungBeetle_1",
+            "price_in_token": 5,
+            "sub_type": "DungBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DungBeetle_2",
+            "price_in_token": 5,
+            "sub_type": "DungBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DungBeetle_3",
+            "price_in_token": 5,
+            "sub_type": "DungBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SpiderBeetle_1",
+            "price_in_token": 5,
+            "sub_type": "SpiderBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SpiderBeetle_3",
+            "price_in_token": 5,
+            "sub_type": "SpiderBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "SpiderBeetle_2",
+            "price_in_token": 5,
+            "sub_type": "SpiderBeetle",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GrizzlyBear_1",
+            "price_in_token": 5,
+            "sub_type": "GrizzlyBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GrizzlyBear_2",
+            "price_in_token": 5,
+            "sub_type": "GrizzlyBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GrizzlyBear_6",
+            "price_in_token": 5,
+            "sub_type": "GrizzlyBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GrizzlyBear_4",
+            "price_in_token": 5,
+            "sub_type": "GrizzlyBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GrizzlyBear_5",
+            "price_in_token": 5,
+            "sub_type": "GrizzlyBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GrizzlyBear_3",
+            "price_in_token": 5,
+            "sub_type": "GrizzlyBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GrizzlyBear_7",
+            "price_in_token": 5,
+            "sub_type": "GrizzlyBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HoodedSkunk_1",
+            "price_in_token": 5,
+            "sub_type": "HoodedSkunk",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HoodedSkunk_2",
+            "price_in_token": 5,
+            "sub_type": "HoodedSkunk",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HoodedSkunk_3",
+            "price_in_token": 5,
+            "sub_type": "HoodedSkunk",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PolarBear_1",
+            "price_in_token": 5,
+            "sub_type": "PolarBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PolarBear_5",
+            "price_in_token": 5,
+            "sub_type": "PolarBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PolarBear_3",
+            "price_in_token": 5,
+            "sub_type": "PolarBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PolarBear_2",
+            "price_in_token": 5,
+            "sub_type": "PolarBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PolarBear_4",
+            "price_in_token": 5,
+            "sub_type": "PolarBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PolarBear_6",
+            "price_in_token": 5,
+            "sub_type": "PolarBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PolarBear_7",
+            "price_in_token": 5,
+            "sub_type": "PolarBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackBear_1",
+            "price_in_token": 5,
+            "sub_type": "BlackBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackBear_2",
+            "price_in_token": 5,
+            "sub_type": "BlackBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackBear_4",
+            "price_in_token": 5,
+            "sub_type": "BlackBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackBear_7",
+            "price_in_token": 5,
+            "sub_type": "BlackBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackBear_3",
+            "price_in_token": 5,
+            "sub_type": "BlackBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackBear_5",
+            "price_in_token": 5,
+            "sub_type": "BlackBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackBear_6",
+            "price_in_token": 5,
+            "sub_type": "BlackBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackBear_8",
+            "price_in_token": 5,
+            "sub_type": "BlackBear",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Koala_1",
+            "price_in_token": 5,
+            "sub_type": "Koala",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Koala_2",
+            "price_in_token": 5,
+            "sub_type": "Koala",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Koala_3",
+            "price_in_token": 5,
+            "sub_type": "Koala",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Koala_5",
+            "price_in_token": 5,
+            "sub_type": "Koala",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Koala_4",
+            "price_in_token": 5,
+            "sub_type": "Koala",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantPanda_1",
+            "price_in_token": 5,
+            "sub_type": "GiantPanda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantPanda_2",
+            "price_in_token": 5,
+            "sub_type": "GiantPanda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantPanda_6",
+            "price_in_token": 5,
+            "sub_type": "GiantPanda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantPanda_4",
+            "price_in_token": 5,
+            "sub_type": "GiantPanda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantPanda_5",
+            "price_in_token": 5,
+            "sub_type": "GiantPanda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantPanda_3",
+            "price_in_token": 5,
+            "sub_type": "GiantPanda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantPanda_7",
+            "price_in_token": 5,
+            "sub_type": "GiantPanda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GiantPanda_8",
+            "price_in_token": 5,
+            "sub_type": "GiantPanda",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Wolf_1",
+            "price_in_token": 5,
+            "sub_type": "Wolf",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Wolf_2",
+            "price_in_token": 5,
+            "sub_type": "Wolf",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Wolf_3",
+            "price_in_token": 5,
+            "sub_type": "Wolf",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Wolf_4",
+            "price_in_token": 5,
+            "sub_type": "Wolf",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Wolf_5",
+            "price_in_token": 5,
+            "sub_type": "Wolf",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Wolf_6",
+            "price_in_token": 5,
+            "sub_type": "Wolf",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Wolf_7",
+            "price_in_token": 5,
+            "sub_type": "Wolf",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BatEaredFox_1",
+            "price_in_token": 5,
+            "sub_type": "BatEaredFox",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BatEaredFox_2",
+            "price_in_token": 5,
+            "sub_type": "BatEaredFox",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BatEaredFox_3",
+            "price_in_token": 5,
+            "sub_type": "BatEaredFox",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AfricanWildDog_1",
+            "price_in_token": 5,
+            "sub_type": "AfricanWildDog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AfricanWildDog_2",
+            "price_in_token": 5,
+            "sub_type": "AfricanWildDog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AfricanWildDog_3",
+            "price_in_token": 5,
+            "sub_type": "AfricanWildDog",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CrystalBall_1",
+            "price_in_token": 5,
+            "sub_type": "CrystalBall",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AmazonPrime_1",
+            "price_in_token": 5,
+            "sub_type": "AmazonPrime",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ArmorSuit_1",
+            "price_in_token": 5,
+            "sub_type": "ArmorSuit",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AmberAmulet_1",
+            "price_in_token": 5,
+            "sub_type": "AmberAmulet",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Chainsaw_1",
+            "price_in_token": 5,
+            "sub_type": "Chainsaw",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ElectricEel_1",
+            "price_in_token": 5,
+            "sub_type": "ElectricEel",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ElectricEel_2",
+            "price_in_token": 5,
+            "sub_type": "ElectricEel",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Lionfish_1",
+            "price_in_token": 5,
+            "sub_type": "Lionfish",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreenlandShark_2",
+            "price_in_token": 5,
+            "sub_type": "GreenlandShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreenlandShark_1",
+            "price_in_token": 5,
+            "sub_type": "GreenlandShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreenlandShark_3",
+            "price_in_token": 5,
+            "sub_type": "GreenlandShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "GreenlandShark_4",
+            "price_in_token": 5,
+            "sub_type": "GreenlandShark",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ShortTailStingray_1",
+            "price_in_token": 5,
+            "sub_type": "ShortTailStingray",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ShortTailStingray_2",
+            "price_in_token": 5,
+            "sub_type": "ShortTailStingray",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ShortTailStingray_3",
+            "price_in_token": 5,
+            "sub_type": "ShortTailStingray",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HoneyPotAnt_1",
+            "price_in_token": 5,
+            "sub_type": "HoneyPotAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "HoneyPotAnt_2",
+            "price_in_token": 5,
+            "sub_type": "HoneyPotAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "FireAnt_1",
+            "price_in_token": 5,
+            "sub_type": "FireAnt",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BombusPolaris_1",
+            "price_in_token": 5,
+            "sub_type": "BombusPolaris",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BombusPolaris_2",
+            "price_in_token": 5,
+            "sub_type": "BombusPolaris",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PilotWhale_1",
+            "price_in_token": 5,
+            "sub_type": "PilotWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "PilotWhale_2",
+            "price_in_token": 5,
+            "sub_type": "PilotWhale",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AmazonRiverDolphin_1",
+            "price_in_token": 5,
+            "sub_type": "AmazonRiverDolphin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AmazonRiverDolphin_2",
+            "price_in_token": 5,
+            "sub_type": "AmazonRiverDolphin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Hippopotamus_1",
+            "price_in_token": 5,
+            "sub_type": "Hippopotamus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Hippopotamus_3",
+            "price_in_token": 5,
+            "sub_type": "Hippopotamus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Hippopotamus_2",
+            "price_in_token": 5,
+            "sub_type": "Hippopotamus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Hippopotamus_4",
+            "price_in_token": 5,
+            "sub_type": "Hippopotamus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Hippopotamus_5",
+            "price_in_token": 5,
+            "sub_type": "Hippopotamus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "Hippopotamus_6",
+            "price_in_token": 5,
+            "sub_type": "Hippopotamus",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EmperorPenguin_1",
+            "price_in_token": 5,
+            "sub_type": "EmperorPenguin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EmperorPenguin_2",
+            "price_in_token": 5,
+            "sub_type": "EmperorPenguin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EmperorPenguin_3",
+            "price_in_token": 5,
+            "sub_type": "EmperorPenguin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "EmperorPenguin_4",
+            "price_in_token": 5,
+            "sub_type": "EmperorPenguin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "MacaroniPenguin_1",
+            "price_in_token": 5,
+            "sub_type": "MacaroniPenguin",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ShoeBill_1",
+            "price_in_token": 5,
+            "sub_type": "ShoeBill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ShoeBill_2",
+            "price_in_token": 5,
+            "sub_type": "ShoeBill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ShoeBill_3",
+            "price_in_token": 5,
+            "sub_type": "ShoeBill",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NoselessMonkey_1",
+            "price_in_token": 5,
+            "sub_type": "NoselessMonkey",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NoselessMonkey_2",
+            "price_in_token": 5,
+            "sub_type": "NoselessMonkey",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NoselessMonkey_3",
+            "price_in_token": 5,
+            "sub_type": "NoselessMonkey",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "NembrothaAurea_1",
+            "price_in_token": 5,
+            "sub_type": "NembrothaAurea",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DivingBellSpider_1",
+            "price_in_token": 5,
+            "sub_type": "DivingBellSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "DivingBellSpider_2",
+            "price_in_token": 5,
+            "sub_type": "DivingBellSpider",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CaribbeanReefSquid_1",
+            "price_in_token": 5,
+            "sub_type": "CaribbeanReefSquid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CaribbeanReefSquid_2",
+            "price_in_token": 5,
+            "sub_type": "CaribbeanReefSquid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "CaribbeanReefSquid_3",
+            "price_in_token": 5,
+            "sub_type": "CaribbeanReefSquid",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "KomodoDragon_1",
+            "price_in_token": 5,
+            "sub_type": "KomodoDragon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "KomodoDragon_2",
+            "price_in_token": 5,
+            "sub_type": "KomodoDragon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "KomodoDragon_3",
+            "price_in_token": 5,
+            "sub_type": "KomodoDragon",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackMamba_1",
+            "price_in_token": 5,
+            "sub_type": "BlackMamba",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackMamba_2",
+            "price_in_token": 5,
+            "sub_type": "BlackMamba",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlackMamba_3",
+            "price_in_token": 5,
+            "sub_type": "BlackMamba",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ArcticFox_1",
+            "price_in_token": 5,
+            "sub_type": "ArcticFox",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ArcticFox_2",
+            "price_in_token": 5,
+            "sub_type": "ArcticFox",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ArcticFox_3",
+            "price_in_token": 5,
+            "sub_type": "ArcticFox",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "ArcticFox_4",
+            "price_in_token": 5,
+            "sub_type": "ArcticFox",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlueSpottedSalamander_1",
+            "price_in_token": 5,
+            "sub_type": "BlueSpottedSalamander",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlueSpottedSalamander_2",
+            "price_in_token": 5,
+            "sub_type": "BlueSpottedSalamander",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "BlueSpottedSalamander_3",
+            "price_in_token": 5,
+            "sub_type": "BlueSpottedSalamander",
+            "type": "ShopAlternativeArtItem"
+        },
+        {
+            "item_id": "AmericanLobster_1",
+            "price_in_token": 5,
+            "sub_type": "AmericanLobster",
+            "type": "ShopAlternativeArtItem"
+        }
+    ]
+}

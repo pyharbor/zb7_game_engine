@@ -1,0 +1,694 @@
+{
+    "start of battle": {
+        "type": "op",
+        "value": "start of battle"
+    },
+    "ShellArmor": {
+        "type": "Status",
+        "value": "ShellArmor"
+    },
+    "start of each shop turn": {
+        "type": "op",
+        "value": "start of each shop turn"
+    },
+    "Beach": {
+        "type": "habitat",
+        "value": "Beach"
+    },
+    "Crustacea": {
+        "type": "scientific_name",
+        "value": "Crustacea"
+    },
+    "HermitCrab": {
+        "type": "Recruit",
+        "value": "HermitCrab"
+    },
+    "attacked by recruit": {
+        "type": "op",
+        "value": "attacked by recruit"
+    },
+    "attacks a recruit": {
+        "type": "op",
+        "value": "attacks a recruit"
+    },
+    "MildPoison": {
+        "type": "Status",
+        "value": "MildPoison"
+    },
+    "Cetacea": {
+        "type": "scientific_name",
+        "value": "Cetacea"
+    },
+    "During Battle": {
+        "type": "op",
+        "value": "During Battle"
+    },
+    "adapts": {
+        "type": "op",
+        "value": "adapts"
+    },
+    "adapted": {
+        "type": "op",
+        "value": "adapted"
+    },
+    "DeepSea": {
+        "type": "habitat",
+        "value": "DeepSea"
+    },
+    "end of each shop turn": {
+        "type": "op",
+        "value": "end of each shop turn"
+    },
+    "Oceanic": {
+        "type": "habitat-multi",
+        "value": [
+            "CoralReef",
+            "Coastline",
+            "OpenOcean",
+            "DeepSea"
+        ]
+    },
+    "faints": {
+        "type": "op",
+        "value": "faints"
+    },
+    "TropicalForests": {
+        "type": "habitat-multi",
+        "value": [
+            "TropicalRainForest",
+            "SubtropicalForest"
+        ]
+    },
+    "Chlorotoxin": {
+        "type": "Status",
+        "value": "Chlorotoxin"
+    },
+    "NeuromuscularToxin": {
+        "type": "Status",
+        "value": "NeuromuscularToxin"
+    },
+    "ranged attack": {
+        "type": "op",
+        "value": "ranged attack"
+    },
+    "Arid": {
+        "type": "habitat-multi",
+        "value": [
+            "Desert",
+            "Steppe"
+        ]
+    },
+    "levels up": {
+        "type": "op",
+        "value": "levels up"
+    },
+    "During battle": {
+        "type": "op",
+        "value": "During battle"
+    },
+    "knocks out": {
+        "type": "op",
+        "value": "knocks out"
+    },
+    "EntangledWeb": {
+        "type": "Status",
+        "value": "EntangledWeb"
+    },
+    "Meadow": {
+        "type": "habitat",
+        "value": "Meadow"
+    },
+    "Field": {
+        "type": "habitat",
+        "value": "Field"
+    },
+    "Burrowed": {
+        "type": "Status",
+        "value": "Burrowed"
+    },
+    "Cytotoxin": {
+        "type": "Status",
+        "value": "Cytotoxin"
+    },
+    "Arachnida": {
+        "type": "scientific_name",
+        "value": "Arachnida"
+    },
+    "TropicalRainForest": {
+        "type": "habitat",
+        "value": "TropicalRainForest"
+    },
+    "Mangrove": {
+        "type": "habitat",
+        "value": "Mangrove"
+    },
+    "full blocks": {
+        "type": "op",
+        "value": "full blocks"
+    },
+    "Hymenoptera": {
+        "type": "scientific_name",
+        "value": "Hymenoptera"
+    },
+    "Actinopterygii": {
+        "type": "scientific_name",
+        "value": "Actinopterygii"
+    },
+    "Shoal": {
+        "type": "Status",
+        "value": "Shoal"
+    },
+    "SockeyeSalmon": {
+        "type": "Recruit",
+        "value": "SockeyeSalmon"
+    },
+    "Freshwater": {
+        "type": "habitat-multi",
+        "value": [
+            "Lakes",
+            "Ponds",
+            "Pools",
+            "Streams",
+            "Rivers",
+            "Wetlands"
+        ]
+    },
+    "GrizzlyBear": {
+        "type": "Recruit",
+        "value": "GrizzlyBear"
+    },
+    "Chondrichthyes": {
+        "type": "scientific_name",
+        "value": "Chondrichthyes"
+    },
+    "consume": {
+        "type": "op",
+        "value": "consume"
+    },
+    "Krill": {
+        "type": "Recruit",
+        "value": "Krill"
+    },
+    "Savanna": {
+        "type": "habitat",
+        "value": "Savanna"
+    },
+    "Primate": {
+        "type": "op",
+        "value": "Primate"
+    },
+    "Pinnipedia": {
+        "type": "scientific_name",
+        "value": "Pinnipedia"
+    },
+    "Arctic": {
+        "type": "habitat",
+        "value": "Arctic"
+    },
+    "Amphibia": {
+        "type": "scientific_name",
+        "value": "Amphibia"
+    },
+    "JapaneseSpiderCrab": {
+        "type": "Recruit",
+        "value": "JapaneseSpiderCrab"
+    },
+    "Batrachotoxin": {
+        "type": "Status",
+        "value": "Batrachotoxin"
+    },
+    "max health": {
+        "type": "op",
+        "value": "max health"
+    },
+    "AcridSlime": {
+        "type": "op",
+        "value": "AcridSlime"
+    },
+    "HiveDurability": {
+        "type": "Status",
+        "value": "HiveDurability"
+    },
+    "TarantulaHawk": {
+        "type": "Recruit",
+        "value": "TarantulaHawk"
+    },
+    "CorrosiveSpitStatus": {
+        "type": "Status",
+        "value": "CorrosiveSpitStatus"
+    },
+    "Desert": {
+        "type": "habitat",
+        "value": "Desert"
+    },
+    "summoned in battle": {
+        "type": "op",
+        "value": "summoned in battle"
+    },
+    "OpenOcean": {
+        "type": "habitat",
+        "value": "OpenOcean"
+    },
+    "ThickBlubber": {
+        "type": "Status",
+        "value": "ThickBlubber"
+    },
+    "Pinipedia": {
+        "type": "op",
+        "value": "Pinipedia"
+    },
+    "Carnivora": {
+        "type": "scientific_name",
+        "value": "Carnivora"
+    },
+    "SouthAmericanSeaLion": {
+        "type": "Recruit",
+        "value": "SouthAmericanSeaLion"
+    },
+    "Coastline": {
+        "type": "habitat",
+        "value": "Coastline"
+    },
+    "Swampy": {
+        "type": "habitat-multi",
+        "value": [
+            "Marsh",
+            "Swamp",
+            "Wetlands"
+        ]
+    },
+    "Protected": {
+        "type": "Status",
+        "value": "Protected"
+    },
+    "ToadFacedTurtle": {
+        "type": "Recruit",
+        "value": "ToadFacedTurtle"
+    },
+    "Reptilia": {
+        "type": "scientific_name",
+        "value": "Reptilia"
+    },
+    "RainbowAgama": {
+        "type": "Recruit",
+        "value": "RainbowAgama"
+    },
+    "Testudines": {
+        "type": "scientific_name",
+        "value": "Testudines"
+    },
+    "CoralProtection": {
+        "type": "Status",
+        "value": "CoralProtection"
+    },
+    "CoralReef": {
+        "type": "habitat",
+        "value": "CoralReef"
+    },
+    "Primates": {
+        "type": "scientific_name",
+        "value": "Primates"
+    },
+    "Tetrodotoxin": {
+        "type": "Status",
+        "value": "Tetrodotoxin"
+    },
+    "NeurotoxicPeptides": {
+        "type": "Status",
+        "value": "NeurotoxicPeptides"
+    },
+    "Cuttlefish": {
+        "type": "Recruit",
+        "value": "Cuttlefish"
+    },
+    "Mollusca": {
+        "type": "scientific_name",
+        "value": "Mollusca"
+    },
+    "Cephalopoda": {
+        "type": "scientific_name",
+        "value": "Cephalopoda"
+    },
+    "MolluskMucus": {
+        "type": "Status",
+        "value": "MolluskMucus"
+    },
+    "Swamp": {
+        "type": "habitat",
+        "value": "Swamp"
+    },
+    "InkSpray": {
+        "type": "Status",
+        "value": "InkSpray"
+    },
+    "Mollusks": {
+        "type": "op",
+        "value": "Mollusks"
+    },
+    "Bivalves": {
+        "type": "op",
+        "value": "Bivalves"
+    },
+    "Gastropods": {
+        "type": "op",
+        "value": "Gastropods"
+    },
+    "Airborne": {
+        "type": "Status",
+        "value": "Airborne"
+    },
+    "Flock": {
+        "type": "Status",
+        "value": "Flock"
+    },
+    "recruit is damaged": {
+        "type": "op",
+        "value": "recruit is damaged"
+    },
+    "Aves": {
+        "type": "scientific_name",
+        "value": "Aves"
+    },
+    "BorealForest": {
+        "type": "habitat",
+        "value": "BorealForest"
+    },
+    "TemperateForests": {
+        "type": "habitat-multi",
+        "value": [
+            "BorealForest",
+            "TemperateForest",
+            "TemperateDeciduousForest",
+            "TemperateConiferousForest",
+            "Woodland"
+        ]
+    },
+    "Insecta": {
+        "type": "scientific_name",
+        "value": "Insecta"
+    },
+    "Maize": {
+        "type": "op",
+        "value": "Maize"
+    },
+    "Mantodea": {
+        "type": "scientific_name",
+        "value": "Mantodea"
+    },
+    "Phasmatodea": {
+        "type": "scientific_name",
+        "value": "Phasmatodea"
+    },
+    "Orthoptera": {
+        "type": "scientific_name",
+        "value": "Orthoptera"
+    },
+    "Camouflaged": {
+        "type": "op",
+        "value": "Camouflaged"
+    },
+    "EntrenchedDugout": {
+        "type": "Status",
+        "value": "EntrenchedDugout"
+    },
+    "Carapace": {
+        "type": "Status",
+        "value": "Carapace"
+    },
+    "IncendiaryMaterial": {
+        "type": "Status",
+        "value": "IncendiaryMaterial"
+    },
+    "Coleoptera": {
+        "type": "scientific_name",
+        "value": "Coleoptera"
+    },
+    "SpiderBeetle": {
+        "type": "Recruit",
+        "value": "SpiderBeetle"
+    },
+    "Arachnidia": {
+        "type": "op",
+        "value": "Arachnidia"
+    },
+    "SkunkSpray": {
+        "type": "Status",
+        "value": "SkunkSpray"
+    },
+    "Canidae": {
+        "type": "scientific_name",
+        "value": "Canidae"
+    },
+    "eat bamboo": {
+        "type": "op",
+        "value": "eat bamboo"
+    },
+    "Urisdae": {
+        "type": "op",
+        "value": "Urisdae"
+    },
+    "Vengeance": {
+        "type": "Status",
+        "value": "Vengeance"
+    },
+    "Ursidae": {
+        "type": "scientific_name",
+        "value": "Ursidae"
+    },
+    "faint": {
+        "type": "op",
+        "value": "faint"
+    },
+    "Honey": {
+        "type": "op",
+        "value": "Honey"
+    },
+    "PilotWhale": {
+        "type": "Recruit",
+        "value": "PilotWhale"
+    },
+    "Hippopotamidae": {
+        "type": "scientific_name",
+        "value": "Hippopotamidae"
+    },
+    "Diving": {
+        "type": "Status",
+        "value": "Diving"
+    },
+    "Gastropoda": {
+        "type": "scientific_name",
+        "value": "Gastropoda"
+    },
+    "AnemoneAttachment": {
+        "type": "Status",
+        "value": "AnemoneAttachment"
+    },
+    "DivingBellSpider": {
+        "type": "Recruit",
+        "value": "DivingBellSpider"
+    },
+    "Ponds": {
+        "type": "habitat",
+        "value": "Ponds"
+    },
+    "Crocodylia": {
+        "type": "op",
+        "value": "Crocodylia"
+    },
+    "Bacteria": {
+        "type": "Status",
+        "value": "Bacteria"
+    },
+    "Squamata": {
+        "type": "scientific_name",
+        "value": "Squamata"
+    },
+    "BlackMamba": {
+        "type": "Recruit",
+        "value": "BlackMamba"
+    },
+    "Dendrotoxin": {
+        "type": "Status",
+        "value": "Dendrotoxin"
+    },
+    "__module__": {
+        "type": "scientific_name",
+        "value": "__module__"
+    },
+    "SeagrassMeadows": {
+        "type": "habitat",
+        "value": "SeagrassMeadows"
+    },
+    "Estuaries": {
+        "type": "habitat",
+        "value": "Estuaries"
+    },
+    "Lagoons": {
+        "type": "habitat",
+        "value": "Lagoons"
+    },
+    "SaltMarshes": {
+        "type": "habitat",
+        "value": "SaltMarshes"
+    },
+    "Lakes": {
+        "type": "habitat",
+        "value": "Lakes"
+    },
+    "Pools": {
+        "type": "habitat",
+        "value": "Pools"
+    },
+    "Streams": {
+        "type": "habitat",
+        "value": "Streams"
+    },
+    "Rivers": {
+        "type": "habitat",
+        "value": "Rivers"
+    },
+    "Wetlands": {
+        "type": "habitat",
+        "value": "Wetlands"
+    },
+    "Alpine": {
+        "type": "habitat",
+        "value": "Alpine"
+    },
+    "TemperateForest": {
+        "type": "habitat",
+        "value": "TemperateForest"
+    },
+    "SubtropicalForest": {
+        "type": "habitat",
+        "value": "SubtropicalForest"
+    },
+    "TemperateDeciduousForest": {
+        "type": "habitat",
+        "value": "TemperateDeciduousForest"
+    },
+    "TemperateConiferousForest": {
+        "type": "habitat",
+        "value": "TemperateConiferousForest"
+    },
+    "Woodland": {
+        "type": "habitat",
+        "value": "Woodland"
+    },
+    "TemperateRainForest": {
+        "type": "habitat",
+        "value": "TemperateRainForest"
+    },
+    "Steppe": {
+        "type": "habitat",
+        "value": "Steppe"
+    },
+    "Marsh": {
+        "type": "habitat",
+        "value": "Marsh"
+    },
+    "Prairie": {
+        "type": "habitat",
+        "value": "Prairie"
+    },
+    "Pasture": {
+        "type": "habitat",
+        "value": "Pasture"
+    },
+    "Grassland": {
+        "type": "habitat",
+        "value": "Grassland"
+    },
+    "Tundra": {
+        "type": "habitat",
+        "value": "Tundra"
+    },
+    "Taiga": {
+        "type": "habitat",
+        "value": "Taiga"
+    },
+    "ArcticLike": {
+        "type": "habitat-multi",
+        "value": [
+            "Arctic",
+            "Tundra",
+            "Taiga",
+            "Alpine"
+        ]
+    },
+    "Coastal": {
+        "type": "habitat-multi",
+        "value": [
+            "Beach",
+            "Coastline",
+            "Mangrove"
+        ]
+    },
+    "OpenWater": {
+        "type": "habitat-multi",
+        "value": [
+            "OpenOcean",
+            "DeepSea"
+        ]
+    },
+    "FieldMeadowLike": {
+        "type": "habitat-multi",
+        "value": [
+            "Field",
+            "Meadow",
+            "Prairie",
+            "Pasture"
+        ]
+    },
+    "GrasslandLike": {
+        "type": "habitat-multi",
+        "value": [
+            "Grassland",
+            "Savanna"
+        ]
+    },
+    "EmptySlot": {
+        "type": "scientific_name",
+        "value": "EmptySlot"
+    },
+    "Diprotodontia": {
+        "type": "scientific_name",
+        "value": "Diprotodontia"
+    },
+    "Crocodilia": {
+        "type": "scientific_name",
+        "value": "Crocodilia"
+    },
+    "Carniformia": {
+        "type": "scientific_name",
+        "value": "Carniformia"
+    },
+    "Mephitidae": {
+        "type": "scientific_name",
+        "value": "Mephitidae"
+    },
+    "Bivalvia": {
+        "type": "scientific_name",
+        "value": "Bivalvia"
+    },
+    "Polyneoptera": {
+        "type": "scientific_name",
+        "value": "Polyneoptera"
+    },
+    "Blattodea": {
+        "type": "scientific_name",
+        "value": "Blattodea"
+    },
+    "__dict__": {
+        "type": "scientific_name",
+        "value": "__dict__"
+    },
+    "__weakref__": {
+        "type": "scientific_name",
+        "value": "__weakref__"
+    },
+    "__doc__": {
+        "type": "scientific_name",
+        "value": "__doc__"
+    }
+}

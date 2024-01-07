@@ -1,0 +1,313 @@
+reviews:
+- judge: "vesnart"
+  item_id: AfricanBullFrog_2
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: AlaskanKingCrab_2
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: AlligatorSnappingTurtle_2
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: AndeanCondor_3
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: BandedGardenSpider_3
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: Barracuda_3
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: Chimpanzee_2
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: EuropeanMantis_2
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: GiantAfricanSnail_2
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: GoldenEagle_2
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: GreaterFlamingo_3
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: GreenAnaconda_2
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: GriffonVulture_1
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: GrizzlyBear_1
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: JumpingSpider_1
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: MorayEel_4
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: NileCrocodile_3
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: Orca_5
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: PufferFish_4
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: RainbowAgama_2
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: RoughSkinnedNewt_3
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: SouthAmericanSeaLion_1
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: SpermWhale_2
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            
+- judge: "vesnart"
+  item_id: Wolf_2
+  social_info: https://www.fiverr.com/valerie_pl?source=order_page_user_message_link
+  artist_alias: valerie_pl
+  rating_out_of_100: 100
+  comment: |
+    Don't delete the | you can change the rest of this
+    This is an example multiline comment.
+    I liked the lines
+    I likes the color
+    I disliked the design
+    etc...
+            

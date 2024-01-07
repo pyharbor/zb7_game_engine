@@ -1,0 +1,22 @@
+{
+  "1": "won",
+  "2": "lost",
+  "3": "pending",
+  "4": "abandoned",
+  "5": "custom_deck",
+  "6": "ShopSnapshot",
+  "7": "BattleSnapshot",
+  "8": "start_of_run",
+  "9": "start_of_turn",
+  "10": "end_of_turn",
+  "11": "end_of_run",
+  "12": "buy",
+  "13": "sell",
+  "14": "move",
+  "15": "roll",
+  "16": "name",
+  "17": "change_art",
+  "18": "set_custom_data",
+  "19": "reward",
+  "20": "battle"
+}

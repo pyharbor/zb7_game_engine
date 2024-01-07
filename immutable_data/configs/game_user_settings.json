@@ -1,0 +1,2330 @@
+{
+    "run_auto_play": true,
+    "shop_auto_play": true,
+    "battle_auto_play": true,
+    "shop_event_speed": 1,
+    "battle_event_speed": 1,
+    "background_image": {
+        "options": [
+            "random",
+            "11 Alps",
+            "12 Alps",
+            "13 Ice Forest",
+            "14 Ice Forest",
+            "15 Tropical Cave",
+            "16 Tropical Cave",
+            "17 Emerald Pools",
+            "18 Emerald Pools",
+            "19 Jungle",
+            "20 Jungle",
+            "21 Dunes",
+            "22 Dunes",
+            "23 Canyon",
+            "24 Canyon",
+            "25 Antarctic",
+            "26 Antarctic",
+            "27 Iceland",
+            "28 Iceland",
+            "29 Cherry Blossom",
+            "30 Cherry Blossom",
+            "Watering Hole",
+            "Mushroom Forest",
+            "Pink Trees",
+            "Desert 2",
+            "Beach 1",
+            "Beach 2",
+            "Canyon 1",
+            "Canyon 2",
+            "Coastline 1",
+            "Coastline 2",
+            "Deep Sea 1",
+            "Deep Sea 2",
+            "Field 1",
+            "Field 2",
+            "Frozen Ocean 1",
+            "Frozen Ocean 2",
+            "Grassland 1",
+            "Grassland 2",
+            "Hydrothermal 1",
+            "Hydrothermal 2",
+            "Ice Cave 1",
+            "Ice Cave 2",
+            "Island 1",
+            "Island 2",
+            "Jungle 1",
+            "Jungle 2",
+            "Kelp Forest 1",
+            "Kelp Forest 2",
+            "Prairie 1",
+            "Prairie 2",
+            "Rain Forest 1",
+            "Rain Forest 2",
+            "River 1",
+            "River 2",
+            "Salt Flats 1",
+            "Salt Flats 2",
+            "Tropical Oasis 1",
+            "Tropical Oasis 2",
+            "Tundra Crater 1",
+            "Tundra Crater 2",
+            "Lilly Pond",
+            "Lake",
+            "Coastline",
+            "Geyser",
+            "Waterfall",
+            "Island",
+            "Alpine Forest 1",
+            "Alpine Forest 2",
+            "Arctic 1",
+            "Arctic 2",
+            "Arctic 3",
+            "Arctic 4",
+            "Arctic 5",
+            "Arctic 6",
+            "Arctic 7",
+            "Arctic 8",
+            "Arctic 9",
+            "Cloud Forest",
+            "Coral Reef",
+            "Deciduous Forest 1",
+            "Desert",
+            "Mangrove Forest",
+            "Ocean Surface",
+            "Overcast Swamp",
+            "Rainforest",
+            "Rainforest 2",
+            "Savanah",
+            "Savanna 1",
+            "Savanna 2",
+            "Savanna 3",
+            "Sunset Coast 1",
+            "Sunset Coast 2",
+            "Sunset Coast 3",
+            "Swamp Forest",
+            "Swamp Forest 2",
+            "Temperate Forest",
+            "Temperate Forest 2",
+            "Tropical Coast",
+            "Underwater Cavern",
+            "Underwater Cavern 2",
+            "Underwater Cavern 3",
+            "Dark Coastline 1",
+            "Dark Coastline 2",
+            "Dark Coastline 3",
+            "Dark Coastline 4",
+            "Dark Coastline 5",
+            "Dark Coastline 6",
+            "Dark Coastline 7",
+            "Dark Coastline 8",
+            "Dark Coastline 9",
+            "Dark Coastline 10",
+            "Desert 3",
+            "Desert 4",
+            "Full Moon",
+            "Full Moon 2",
+            "Full Moon 3",
+            "Mountain 1",
+            "Oasis 1",
+            "Riverbed 1",
+            "Swamp 1",
+            "Swamp 2",
+            "Swamp 3",
+            "Swamp 4",
+            "Swamp 5",
+            "Swamp 6",
+            "Swamp 7",
+            "Swamp 8",
+            "Swamp 9",
+            "Tropical Coastline 1",
+            "Tropical Coastline 2",
+            "Tropical Coastline 3",
+            "Volcanic 1",
+            "Volcanic 2",
+            "Volcanic 3",
+            "Volcanic 4",
+            "Volcanic 5",
+            "Volcanic 6",
+            "Wetlands"
+        ],
+        "selected": "random"
+    },
+    "background_music": {
+        "options": [
+            "matching selected background image",
+            "random",
+            "Desert Kalahari Night",
+            "Forest",
+            "Ocean Waves",
+            "Australian Rainforest"
+        ],
+        "selected": "Desert Kalahari Night"
+    },
+    "background_music_volume": 10,
+    "background_music_enabled": true,
+    "background_sounds_volume": 10,
+    "object_cosmetic_info": [
+        {
+            "sub_type": "HermitCrab",
+            "options": [
+                "HermitCrab_0",
+                "HermitCrab_1",
+                "HermitCrab_2",
+                "HermitCrab_3",
+                "HermitCrab_4"
+            ],
+            "selected": "HermitCrab_0"
+        },
+        {
+            "sub_type": "PoisonDartFrog",
+            "options": [
+                "PoisonDartFrog_1",
+                "PoisonDartFrog_0",
+                "PoisonDartFrog_2",
+                "PoisonDartFrog_3",
+                "PoisonDartFrog_4",
+                "PoisonDartFrog_5"
+            ],
+            "selected": "PoisonDartFrog_0"
+        },
+        {
+            "sub_type": "BlueWhale",
+            "options": [
+                "BlueWhale_0",
+                "BlueWhale_1",
+                "BlueWhale_2",
+                "BlueWhale_3"
+            ],
+            "selected": "BlueWhale_0"
+        },
+        {
+            "sub_type": "Orca",
+            "options": [
+                "Orca_1",
+                "Orca_0",
+                "Orca_2",
+                "Orca_3",
+                "Orca_4",
+                "Orca_5",
+                "Orca_6",
+                "Orca_7"
+            ],
+            "selected": "Orca_0"
+        },
+        {
+            "sub_type": "SpermWhale",
+            "options": [
+                "SpermWhale_0",
+                "SpermWhale_1",
+                "SpermWhale_2",
+                "SpermWhale_3",
+                "SpermWhale_4"
+            ],
+            "selected": "SpermWhale_0"
+        },
+        {
+            "sub_type": "Dolphin",
+            "options": [
+                "Dolphin_0",
+                "Dolphin_1",
+                "Dolphin_2",
+                "Dolphin_3",
+                "Dolphin_4",
+                "Dolphin_5"
+            ],
+            "selected": "Dolphin_0"
+        },
+        {
+            "sub_type": "AsianForestScorpion",
+            "options": [
+                "AsianForestScorpion_0",
+                "AsianForestScorpion_1",
+                "AsianForestScorpion_2",
+                "AsianForestScorpion_3"
+            ],
+            "selected": "AsianForestScorpion_0"
+        },
+        {
+            "sub_type": "DeathWalkerScorpion",
+            "options": [
+                "DeathWalkerScorpion_0",
+                "DeathWalkerScorpion_1",
+                "DeathWalkerScorpion_2",
+                "DeathWalkerScorpion_3"
+            ],
+            "selected": "DeathWalkerScorpion_0"
+        },
+        {
+            "sub_type": "JumpingSpider",
+            "options": [
+                "JumpingSpider_0",
+                "JumpingSpider_1",
+                "JumpingSpider_2",
+                "JumpingSpider_3"
+            ],
+            "selected": "JumpingSpider_0"
+        },
+        {
+            "sub_type": "BandedGardenSpider",
+            "options": [
+                "BandedGardenSpider_2",
+                "BandedGardenSpider_1",
+                "BandedGardenSpider_0",
+                "BandedGardenSpider_4",
+                "BandedGardenSpider_3",
+                "BandedGardenSpider_5"
+            ],
+            "selected": "BandedGardenSpider_0"
+        },
+        {
+            "sub_type": "DesertTarantula",
+            "options": [
+                "DesertTarantula_2",
+                "DesertTarantula_0",
+                "DesertTarantula_1",
+                "DesertTarantula_3"
+            ],
+            "selected": "DesertTarantula_0"
+        },
+        {
+            "sub_type": "SixEyedSandSpider",
+            "options": [
+                "SixEyedSandSpider_0",
+                "SixEyedSandSpider_1",
+                "SixEyedSandSpider_2",
+                "SixEyedSandSpider_3"
+            ],
+            "selected": "SixEyedSandSpider_0"
+        },
+        {
+            "sub_type": "CrabSpider",
+            "options": [
+                "CrabSpider_0",
+                "CrabSpider_1",
+                "CrabSpider_2",
+                "CrabSpider_3",
+                "CrabSpider_4"
+            ],
+            "selected": "CrabSpider_0"
+        },
+        {
+            "sub_type": "BrownRecluseSpider",
+            "options": [
+                "BrownRecluseSpider_0",
+                "BrownRecluseSpider_1",
+                "BrownRecluseSpider_2"
+            ],
+            "selected": "BrownRecluseSpider_0"
+        },
+        {
+            "sub_type": "AnelosimusEximius",
+            "options": [
+                "AnelosimusEximius_0",
+                "AnelosimusEximius_1",
+                "AnelosimusEximius_2",
+                "AnelosimusEximius_3"
+            ],
+            "selected": "AnelosimusEximius_0"
+        },
+        {
+            "sub_type": "CoconutCrab",
+            "options": [
+                "CoconutCrab_1",
+                "CoconutCrab_0",
+                "CoconutCrab_3",
+                "CoconutCrab_4"
+            ],
+            "selected": "CoconutCrab_0"
+        },
+        {
+            "sub_type": "HarlequinLandCrab",
+            "options": [
+                "HarlequinLandCrab_0",
+                "HarlequinLandCrab_1",
+                "HarlequinLandCrab_3",
+                "HarlequinLandCrab_4",
+                "HarlequinLandCrab_2",
+                "HarlequinLandCrab_5",
+                "HarlequinLandCrab_6"
+            ],
+            "selected": "HarlequinLandCrab_0"
+        },
+        {
+            "sub_type": "BlackClawedCrab",
+            "options": [
+                "BlackClawedCrab_1",
+                "BlackClawedCrab_2",
+                "BlackClawedCrab_0",
+                "BlackClawedCrab_3"
+            ],
+            "selected": "BlackClawedCrab_0"
+        },
+        {
+            "sub_type": "EasternBumblebee",
+            "options": [
+                "EasternBumblebee_1",
+                "EasternBumblebee_3",
+                "EasternBumblebee_0",
+                "EasternBumblebee_2"
+            ],
+            "selected": "EasternBumblebee_0"
+        },
+        {
+            "sub_type": "PaperWasp",
+            "options": [
+                "PaperWasp_1",
+                "PaperWasp_0",
+                "PaperWasp_2",
+                "PaperWasp_3"
+            ],
+            "selected": "PaperWasp_0"
+        },
+        {
+            "sub_type": "CarpenterAnt",
+            "options": [
+                "CarpenterAnt_0",
+                "CarpenterAnt_2",
+                "CarpenterAnt_3",
+                "CarpenterAnt_1"
+            ],
+            "selected": "CarpenterAnt_0"
+        },
+        {
+            "sub_type": "VelvetAnt",
+            "options": [
+                "VelvetAnt_1",
+                "VelvetAnt_0",
+                "VelvetAnt_2",
+                "VelvetAnt_4",
+                "VelvetAnt_3"
+            ],
+            "selected": "VelvetAnt_0"
+        },
+        {
+            "sub_type": "Barracuda",
+            "options": [
+                "Barracuda_2",
+                "Barracuda_0",
+                "Barracuda_1",
+                "Barracuda_3",
+                "Barracuda_4",
+                "Barracuda_5"
+            ],
+            "selected": "Barracuda_0"
+        },
+        {
+            "sub_type": "GiantIsopod",
+            "options": [
+                "GiantIsopod_2",
+                "GiantIsopod_1",
+                "GiantIsopod_0",
+                "GiantIsopod_3"
+            ],
+            "selected": "GiantIsopod_0"
+        },
+        {
+            "sub_type": "SockeyeSalmon",
+            "options": [
+                "SockeyeSalmon_3",
+                "SockeyeSalmon_2",
+                "SockeyeSalmon_1",
+                "SockeyeSalmon_0",
+                "SockeyeSalmon_4"
+            ],
+            "selected": "SockeyeSalmon_0"
+        },
+        {
+            "sub_type": "GreatHammerheadShark",
+            "options": [
+                "GreatHammerheadShark_1",
+                "GreatHammerheadShark_0",
+                "GreatHammerheadShark_2",
+                "GreatHammerheadShark_3",
+                "GreatHammerheadShark_5",
+                "GreatHammerheadShark_4",
+                "GreatHammerheadShark_6"
+            ],
+            "selected": "GreatHammerheadShark_0"
+        },
+        {
+            "sub_type": "GreatWhiteShark",
+            "options": [
+                "GreatWhiteShark_1",
+                "GreatWhiteShark_0",
+                "GreatWhiteShark_3",
+                "GreatWhiteShark_2",
+                "GreatWhiteShark_4",
+                "GreatWhiteShark_5"
+            ],
+            "selected": "GreatWhiteShark_0"
+        },
+        {
+            "sub_type": "WhaleShark",
+            "options": [
+                "WhaleShark_1",
+                "WhaleShark_0",
+                "WhaleShark_2",
+                "WhaleShark_3",
+                "WhaleShark_4"
+            ],
+            "selected": "WhaleShark_0"
+        },
+        {
+            "sub_type": "BaskingShark",
+            "options": [
+                "BaskingShark_1",
+                "BaskingShark_0",
+                "BaskingShark_2"
+            ],
+            "selected": "BaskingShark_0"
+        },
+        {
+            "sub_type": "BlackTipReefShark",
+            "options": [
+                "BlackTipReefShark_1",
+                "BlackTipReefShark_0",
+                "BlackTipReefShark_2",
+                "BlackTipReefShark_3",
+                "BlackTipReefShark_4"
+            ],
+            "selected": "BlackTipReefShark_0"
+        },
+        {
+            "sub_type": "Baboon",
+            "options": [
+                "Baboon_0",
+                "Baboon_1",
+                "Baboon_3",
+                "Baboon_2",
+                "Baboon_4",
+                "Baboon_5"
+            ],
+            "selected": "Baboon_0"
+        },
+        {
+            "sub_type": "HowlerMonkey",
+            "options": [
+                "HowlerMonkey_0",
+                "HowlerMonkey_2",
+                "HowlerMonkey_1",
+                "HowlerMonkey_3",
+                "HowlerMonkey_4"
+            ],
+            "selected": "HowlerMonkey_0"
+        },
+        {
+            "sub_type": "ElephantSeal",
+            "options": [
+                "ElephantSeal_0",
+                "ElephantSeal_1",
+                "ElephantSeal_2"
+            ],
+            "selected": "ElephantSeal_0"
+        },
+        {
+            "sub_type": "LepoardSeal",
+            "options": [
+                "LepoardSeal_0",
+                "LepoardSeal_1",
+                "LepoardSeal_2"
+            ],
+            "selected": "LepoardSeal_0"
+        },
+        {
+            "sub_type": "Walrus",
+            "options": [
+                "Walrus_0",
+                "Walrus_1",
+                "Walrus_2",
+                "Walrus_3",
+                "Walrus_4",
+                "Walrus_5"
+            ],
+            "selected": "Walrus_0"
+        },
+        {
+            "sub_type": "FurSeal",
+            "options": [
+                "FurSeal_0",
+                "FurSeal_1",
+                "FurSeal_2"
+            ],
+            "selected": "FurSeal_0"
+        },
+        {
+            "sub_type": "TreeFrog",
+            "options": [
+                "TreeFrog_0",
+                "TreeFrog_1",
+                "TreeFrog_2",
+                "TreeFrog_3",
+                "TreeFrog_4",
+                "TreeFrog_5",
+                "TreeFrog_6"
+            ],
+            "selected": "TreeFrog_0"
+        },
+        {
+            "sub_type": "JapaneseGiantSalamander",
+            "options": [
+                "JapaneseGiantSalamander_0",
+                "JapaneseGiantSalamander_1",
+                "JapaneseGiantSalamander_2",
+                "JapaneseGiantSalamander_3"
+            ],
+            "selected": "JapaneseGiantSalamander_0"
+        },
+        {
+            "sub_type": "Axolotl",
+            "options": [
+                "Axolotl_0",
+                "Axolotl_2",
+                "Axolotl_1",
+                "Axolotl_3",
+                "Axolotl_4",
+                "Axolotl_5",
+                "Axolotl_6"
+            ],
+            "selected": "Axolotl_0"
+        },
+        {
+            "sub_type": "AfricanBullFrog",
+            "options": [
+                "AfricanBullFrog_0",
+                "AfricanBullFrog_2",
+                "AfricanBullFrog_1",
+                "AfricanBullFrog_3",
+                "AfricanBullFrog_4"
+            ],
+            "selected": "AfricanBullFrog_0"
+        },
+        {
+            "sub_type": "AtlanticHerring",
+            "options": [
+                "AtlanticHerring_1",
+                "AtlanticHerring_2",
+                "AtlanticHerring_0",
+                "AtlanticHerring_3"
+            ],
+            "selected": "AtlanticHerring_0"
+        },
+        {
+            "sub_type": "AtlanticBluefinTuna",
+            "options": [
+                "AtlanticBluefinTuna_1",
+                "AtlanticBluefinTuna_2",
+                "AtlanticBluefinTuna_0",
+                "AtlanticBluefinTuna_3",
+                "AtlanticBluefinTuna_4",
+                "AtlanticBluefinTuna_5"
+            ],
+            "selected": "AtlanticBluefinTuna_0"
+        },
+        {
+            "sub_type": "BaleenWhale",
+            "options": [
+                "BaleenWhale_0",
+                "BaleenWhale_1",
+                "BaleenWhale_2",
+                "BaleenWhale_3"
+            ],
+            "selected": "BaleenWhale_0"
+        },
+        {
+            "sub_type": "Narwhal",
+            "options": [
+                "Narwhal_0",
+                "Narwhal_1",
+                "Narwhal_2",
+                "Narwhal_3",
+                "Narwhal_4"
+            ],
+            "selected": "Narwhal_0"
+        },
+        {
+            "sub_type": "AlaskanKingCrab",
+            "options": [
+                "AlaskanKingCrab_1",
+                "AlaskanKingCrab_0",
+                "AlaskanKingCrab_2",
+                "AlaskanKingCrab_3"
+            ],
+            "selected": "AlaskanKingCrab_0"
+        },
+        {
+            "sub_type": "JapaneseSpiderCrab",
+            "options": [
+                "JapaneseSpiderCrab_0",
+                "JapaneseSpiderCrab_1",
+                "JapaneseSpiderCrab_2",
+                "JapaneseSpiderCrab_3"
+            ],
+            "selected": "JapaneseSpiderCrab_0"
+        },
+        {
+            "sub_type": "TasmanianGiantCrab",
+            "options": [
+                "TasmanianGiantCrab_0",
+                "TasmanianGiantCrab_1",
+                "TasmanianGiantCrab_2",
+                "TasmanianGiantCrab_3",
+                "TasmanianGiantCrab_4"
+            ],
+            "selected": "TasmanianGiantCrab_0"
+        },
+        {
+            "sub_type": "Krill",
+            "options": [
+                "Krill_0",
+                "Krill_1",
+                "Krill_2",
+                "Krill_3"
+            ],
+            "selected": "Krill_0"
+        },
+        {
+            "sub_type": "Nautilus",
+            "options": [
+                "Nautilus_0",
+                "Nautilus_1",
+                "Nautilus_2",
+                "Nautilus_3"
+            ],
+            "selected": "Nautilus_0"
+        },
+        {
+            "sub_type": "GoldenPoisonFrog",
+            "options": [
+                "GoldenPoisonFrog_0",
+                "GoldenPoisonFrog_1",
+                "GoldenPoisonFrog_2",
+                "GoldenPoisonFrog_3",
+                "GoldenPoisonFrog_4",
+                "GoldenPoisonFrog_5"
+            ],
+            "selected": "GoldenPoisonFrog_0"
+        },
+        {
+            "sub_type": "RoughSkinnedNewt",
+            "options": [
+                "RoughSkinnedNewt_0",
+                "RoughSkinnedNewt_1",
+                "RoughSkinnedNewt_2",
+                "RoughSkinnedNewt_3",
+                "RoughSkinnedNewt_4"
+            ],
+            "selected": "RoughSkinnedNewt_0"
+        },
+        {
+            "sub_type": "ForestRainFrog",
+            "options": [
+                "ForestRainFrog_0",
+                "ForestRainFrog_1",
+                "ForestRainFrog_2",
+                "ForestRainFrog_3",
+                "ForestRainFrog_4",
+                "ForestRainFrog_5"
+            ],
+            "selected": "ForestRainFrog_0"
+        },
+        {
+            "sub_type": "GlassFrog",
+            "options": [
+                "GlassFrog_0",
+                "GlassFrog_1",
+                "GlassFrog_2",
+                "GlassFrog_3"
+            ],
+            "selected": "GlassFrog_0"
+        },
+        {
+            "sub_type": "QueenAnt",
+            "options": [
+                "QueenAnt_0",
+                "QueenAnt_1",
+                "QueenAnt_2",
+                "QueenAnt_3"
+            ],
+            "selected": "QueenAnt_0"
+        },
+        {
+            "sub_type": "GhostAnt",
+            "options": [
+                "GhostAnt_0",
+                "GhostAnt_1"
+            ],
+            "selected": "GhostAnt_0"
+        },
+        {
+            "sub_type": "BullAnt",
+            "options": [
+                "BullAnt_0",
+                "BullAnt_1"
+            ],
+            "selected": "BullAnt_0"
+        },
+        {
+            "sub_type": "TarantulaHawk",
+            "options": [
+                "TarantulaHawk_0",
+                "TarantulaHawk_1",
+                "TarantulaHawk_2"
+            ],
+            "selected": "TarantulaHawk_0"
+        },
+        {
+            "sub_type": "YellowJacket",
+            "options": [
+                "YellowJacket_0",
+                "YellowJacket_1",
+                "YellowJacket_2",
+                "YellowJacket_3"
+            ],
+            "selected": "YellowJacket_0"
+        },
+        {
+            "sub_type": "GiantOceanicMantaRay",
+            "options": [
+                "GiantOceanicMantaRay_1",
+                "GiantOceanicMantaRay_0",
+                "GiantOceanicMantaRay_2"
+            ],
+            "selected": "GiantOceanicMantaRay_0"
+        },
+        {
+            "sub_type": "TigerShark",
+            "options": [
+                "TigerShark_0",
+                "TigerShark_1",
+                "TigerShark_2"
+            ],
+            "selected": "TigerShark_0"
+        },
+        {
+            "sub_type": "BullShark",
+            "options": [
+                "BullShark_0",
+                "BullShark_1",
+                "BullShark_2"
+            ],
+            "selected": "BullShark_0"
+        },
+        {
+            "sub_type": "NurseShark",
+            "options": [
+                "NurseShark_0",
+                "NurseShark_1",
+                "NurseShark_2",
+                "NurseShark_3"
+            ],
+            "selected": "NurseShark_0"
+        },
+        {
+            "sub_type": "BeardedSeal",
+            "options": [
+                "BeardedSeal_0",
+                "BeardedSeal_1",
+                "BeardedSeal_2",
+                "BeardedSeal_4",
+                "BeardedSeal_3"
+            ],
+            "selected": "BeardedSeal_0"
+        },
+        {
+            "sub_type": "CrabEaterSeal",
+            "options": [
+                "CrabEaterSeal_0",
+                "CrabEaterSeal_2",
+                "CrabEaterSeal_1"
+            ],
+            "selected": "CrabEaterSeal_0"
+        },
+        {
+            "sub_type": "HarpSeal",
+            "options": [
+                "HarpSeal_1",
+                "HarpSeal_0",
+                "HarpSeal_2",
+                "HarpSeal_3",
+                "HarpSeal_4"
+            ],
+            "selected": "HarpSeal_0"
+        },
+        {
+            "sub_type": "SouthAmericanSeaLion",
+            "options": [
+                "SouthAmericanSeaLion_0",
+                "SouthAmericanSeaLion_1",
+                "SouthAmericanSeaLion_2",
+                "SouthAmericanSeaLion_3"
+            ],
+            "selected": "SouthAmericanSeaLion_0"
+        },
+        {
+            "sub_type": "SeaOtter",
+            "options": [
+                "SeaOtter_0",
+                "SeaOtter_1",
+                "SeaOtter_2",
+                "SeaOtter_3",
+                "SeaOtter_4",
+                "SeaOtter_5"
+            ],
+            "selected": "SeaOtter_0"
+        },
+        {
+            "sub_type": "BowheadWhale",
+            "options": [
+                "BowheadWhale_0",
+                "BowheadWhale_1",
+                "BowheadWhale_2"
+            ],
+            "selected": "BowheadWhale_0"
+        },
+        {
+            "sub_type": "BelugaWhale",
+            "options": [
+                "BelugaWhale_0",
+                "BelugaWhale_1",
+                "BelugaWhale_2",
+                "BelugaWhale_3"
+            ],
+            "selected": "BelugaWhale_0"
+        },
+        {
+            "sub_type": "GreenAnaconda",
+            "options": [
+                "GreenAnaconda_0",
+                "GreenAnaconda_1",
+                "GreenAnaconda_2",
+                "GreenAnaconda_3",
+                "GreenAnaconda_4",
+                "GreenAnaconda_5"
+            ],
+            "selected": "GreenAnaconda_0"
+        },
+        {
+            "sub_type": "BurmesePython",
+            "options": [
+                "BurmesePython_1",
+                "BurmesePython_0",
+                "BurmesePython_2",
+                "BurmesePython_3"
+            ],
+            "selected": "BurmesePython_0"
+        },
+        {
+            "sub_type": "AlligatorSnappingTurtle",
+            "options": [
+                "AlligatorSnappingTurtle_0",
+                "AlligatorSnappingTurtle_1",
+                "AlligatorSnappingTurtle_2",
+                "AlligatorSnappingTurtle_3"
+            ],
+            "selected": "AlligatorSnappingTurtle_0"
+        },
+        {
+            "sub_type": "SaltwaterCrocodile",
+            "options": [
+                "SaltwaterCrocodile_0",
+                "SaltwaterCrocodile_1",
+                "SaltwaterCrocodile_2",
+                "SaltwaterCrocodile_3"
+            ],
+            "selected": "SaltwaterCrocodile_0"
+        },
+        {
+            "sub_type": "NileCrocodile",
+            "options": [
+                "NileCrocodile_1",
+                "NileCrocodile_2",
+                "NileCrocodile_0",
+                "NileCrocodile_3",
+                "NileCrocodile_5",
+                "NileCrocodile_4",
+                "NileCrocodile_6"
+            ],
+            "selected": "NileCrocodile_0"
+        },
+        {
+            "sub_type": "EasternBoxTurtle",
+            "options": [
+                "EasternBoxTurtle_0",
+                "EasternBoxTurtle_1",
+                "EasternBoxTurtle_2",
+                "EasternBoxTurtle_3"
+            ],
+            "selected": "EasternBoxTurtle_0"
+        },
+        {
+            "sub_type": "ToadFacedTurtle",
+            "options": [
+                "ToadFacedTurtle_0",
+                "ToadFacedTurtle_1",
+                "ToadFacedTurtle_2"
+            ],
+            "selected": "ToadFacedTurtle_0"
+        },
+        {
+            "sub_type": "RainbowAgama",
+            "options": [
+                "RainbowAgama_1",
+                "RainbowAgama_0",
+                "RainbowAgama_2",
+                "RainbowAgama_3",
+                "RainbowAgama_4",
+                "RainbowAgama_5"
+            ],
+            "selected": "RainbowAgama_0"
+        },
+        {
+            "sub_type": "LeatherbackSeaTurtle",
+            "options": [
+                "LeatherbackSeaTurtle_0",
+                "LeatherbackSeaTurtle_1",
+                "LeatherbackSeaTurtle_2",
+                "LeatherbackSeaTurtle_3"
+            ],
+            "selected": "LeatherbackSeaTurtle_0"
+        },
+        {
+            "sub_type": "AldabraGiantTortoise",
+            "options": [
+                "AldabraGiantTortoise_0",
+                "AldabraGiantTortoise_1",
+                "AldabraGiantTortoise_2",
+                "AldabraGiantTortoise_3",
+                "AldabraGiantTortoise_6",
+                "AldabraGiantTortoise_4",
+                "AldabraGiantTortoise_5"
+            ],
+            "selected": "AldabraGiantTortoise_0"
+        },
+        {
+            "sub_type": "MorayEel",
+            "options": [
+                "MorayEel_0",
+                "MorayEel_2",
+                "MorayEel_1",
+                "MorayEel_3",
+                "MorayEel_4",
+                "MorayEel_5",
+                "MorayEel_6"
+            ],
+            "selected": "MorayEel_0"
+        },
+        {
+            "sub_type": "AnglerFish",
+            "options": [
+                "AnglerFish_3",
+                "AnglerFish_1",
+                "AnglerFish_2",
+                "AnglerFish_0",
+                "AnglerFish_4",
+                "AnglerFish_5",
+                "AnglerFish_6",
+                "AnglerFish_7"
+            ],
+            "selected": "AnglerFish_0"
+        },
+        {
+            "sub_type": "PufferFish",
+            "options": [
+                "PufferFish_0",
+                "PufferFish_2",
+                "PufferFish_1",
+                "PufferFish_3",
+                "PufferFish_4",
+                "PufferFish_5",
+                "PufferFish_6"
+            ],
+            "selected": "PufferFish_0"
+        },
+        {
+            "sub_type": "AlligatorGar",
+            "options": [
+                "AlligatorGar_2",
+                "AlligatorGar_1",
+                "AlligatorGar_0",
+                "AlligatorGar_3",
+                "AlligatorGar_4",
+                "AlligatorGar_5"
+            ],
+            "selected": "AlligatorGar_0"
+        },
+        {
+            "sub_type": "RoyalGramma",
+            "options": [
+                "RoyalGramma_2",
+                "RoyalGramma_0",
+                "RoyalGramma_1",
+                "RoyalGramma_3"
+            ],
+            "selected": "RoyalGramma_0"
+        },
+        {
+            "sub_type": "SunFish",
+            "options": [
+                "SunFish_0",
+                "SunFish_1",
+                "SunFish_2",
+                "SunFish_3",
+                "SunFish_4",
+                "SunFish_5"
+            ],
+            "selected": "SunFish_0"
+        },
+        {
+            "sub_type": "Bonobo",
+            "options": [
+                "Bonobo_0",
+                "Bonobo_1",
+                "Bonobo_2",
+                "Bonobo_3"
+            ],
+            "selected": "Bonobo_0"
+        },
+        {
+            "sub_type": "Chimpanzee",
+            "options": [
+                "Chimpanzee_0",
+                "Chimpanzee_1",
+                "Chimpanzee_2",
+                "Chimpanzee_3",
+                "Chimpanzee_4",
+                "Chimpanzee_5"
+            ],
+            "selected": "Chimpanzee_0"
+        },
+        {
+            "sub_type": "EasternGorilla",
+            "options": [
+                "EasternGorilla_0",
+                "EasternGorilla_1",
+                "EasternGorilla_2",
+                "EasternGorilla_3",
+                "EasternGorilla_4",
+                "EasternGorilla_5"
+            ],
+            "selected": "EasternGorilla_0"
+        },
+        {
+            "sub_type": "LarGibon",
+            "options": [
+                "LarGibon_0",
+                "LarGibon_1",
+                "LarGibon_2",
+                "LarGibon_3",
+                "LarGibon_4",
+                "LarGibon_5"
+            ],
+            "selected": "LarGibon_0"
+        },
+        {
+            "sub_type": "Orangutan",
+            "options": [
+                "Orangutan_0",
+                "Orangutan_1",
+                "Orangutan_2",
+                "Orangutan_3",
+                "Orangutan_4"
+            ],
+            "selected": "Orangutan_0"
+        },
+        {
+            "sub_type": "Mandrill",
+            "options": [
+                "Mandrill_1",
+                "Mandrill_0",
+                "Mandrill_2",
+                "Mandrill_3",
+                "Mandrill_4",
+                "Mandrill_5",
+                "Mandrill_6"
+            ],
+            "selected": "Mandrill_0"
+        },
+        {
+            "sub_type": "ProboscisMonkey",
+            "options": [
+                "ProboscisMonkey_0",
+                "ProboscisMonkey_1",
+                "ProboscisMonkey_2",
+                "ProboscisMonkey_3",
+                "ProboscisMonkey_4"
+            ],
+            "selected": "ProboscisMonkey_0"
+        },
+        {
+            "sub_type": "GiantSquid",
+            "options": [
+                "GiantSquid_0",
+                "GiantSquid_1",
+                "GiantSquid_2",
+                "GiantSquid_3"
+            ],
+            "selected": "GiantSquid_0"
+        },
+        {
+            "sub_type": "BlueRingedOctopus",
+            "options": [
+                "BlueRingedOctopus_2",
+                "BlueRingedOctopus_1",
+                "BlueRingedOctopus_0",
+                "BlueRingedOctopus_4",
+                "BlueRingedOctopus_3",
+                "BlueRingedOctopus_5"
+            ],
+            "selected": "BlueRingedOctopus_0"
+        },
+        {
+            "sub_type": "ConeSnail",
+            "options": [
+                "ConeSnail_0",
+                "ConeSnail_1",
+                "ConeSnail_2"
+            ],
+            "selected": "ConeSnail_0"
+        },
+        {
+            "sub_type": "Cuttlefish",
+            "options": [
+                "Cuttlefish_0",
+                "Cuttlefish_1",
+                "Cuttlefish_2",
+                "Cuttlefish_3"
+            ],
+            "selected": "Cuttlefish_0"
+        },
+        {
+            "sub_type": "GiantAfricanSnail",
+            "options": [
+                "GiantAfricanSnail_0",
+                "GiantAfricanSnail_1",
+                "GiantAfricanSnail_2"
+            ],
+            "selected": "GiantAfricanSnail_0"
+        },
+        {
+            "sub_type": "GiantPacificOctopus",
+            "options": [
+                "GiantPacificOctopus_1",
+                "GiantPacificOctopus_2",
+                "GiantPacificOctopus_0",
+                "GiantPacificOctopus_3"
+            ],
+            "selected": "GiantPacificOctopus_0"
+        },
+        {
+            "sub_type": "GiantClam",
+            "options": [
+                "GiantClam_1",
+                "GiantClam_0",
+                "GiantClam_2",
+                "GiantClam_3"
+            ],
+            "selected": "GiantClam_0"
+        },
+        {
+            "sub_type": "VampireSquid",
+            "options": [
+                "VampireSquid_2",
+                "VampireSquid_1",
+                "VampireSquid_0",
+                "VampireSquid_3",
+                "VampireSquid_4",
+                "VampireSquid_5"
+            ],
+            "selected": "VampireSquid_0"
+        },
+        {
+            "sub_type": "WanderingAlbatross",
+            "options": [
+                "WanderingAlbatross_0",
+                "WanderingAlbatross_1",
+                "WanderingAlbatross_2",
+                "WanderingAlbatross_3",
+                "WanderingAlbatross_4"
+            ],
+            "selected": "WanderingAlbatross_0"
+        },
+        {
+            "sub_type": "AndeanCondor",
+            "options": [
+                "AndeanCondor_0",
+                "AndeanCondor_1",
+                "AndeanCondor_2",
+                "AndeanCondor_3",
+                "AndeanCondor_4"
+            ],
+            "selected": "AndeanCondor_0"
+        },
+        {
+            "sub_type": "GriffonVulture",
+            "options": [
+                "GriffonVulture_0",
+                "GriffonVulture_1",
+                "GriffonVulture_2",
+                "GriffonVulture_3"
+            ],
+            "selected": "GriffonVulture_0"
+        },
+        {
+            "sub_type": "GreaterFlamingo",
+            "options": [
+                "GreaterFlamingo_0",
+                "GreaterFlamingo_1",
+                "GreaterFlamingo_2",
+                "GreaterFlamingo_3",
+                "GreaterFlamingo_4",
+                "GreaterFlamingo_5",
+                "GreaterFlamingo_6"
+            ],
+            "selected": "GreaterFlamingo_0"
+        },
+        {
+            "sub_type": "RedBilledQuelea",
+            "options": [
+                "RedBilledQuelea_0",
+                "RedBilledQuelea_2",
+                "RedBilledQuelea_1",
+                "RedBilledQuelea_3",
+                "RedBilledQuelea_4",
+                "RedBilledQuelea_5"
+            ],
+            "selected": "RedBilledQuelea_0"
+        },
+        {
+            "sub_type": "BurrowingOwl",
+            "options": [
+                "BurrowingOwl_0",
+                "BurrowingOwl_1",
+                "BurrowingOwl_2",
+                "BurrowingOwl_3",
+                "BurrowingOwl_4",
+                "BurrowingOwl_5"
+            ],
+            "selected": "BurrowingOwl_0"
+        },
+        {
+            "sub_type": "ArcticTern",
+            "options": [
+                "ArcticTern_0",
+                "ArcticTern_1",
+                "ArcticTern_2",
+                "ArcticTern_3"
+            ],
+            "selected": "ArcticTern_0"
+        },
+        {
+            "sub_type": "GoldenEagle",
+            "options": [
+                "GoldenEagle_0",
+                "GoldenEagle_1",
+                "GoldenEagle_3",
+                "GoldenEagle_2",
+                "GoldenEagle_4",
+                "GoldenEagle_5",
+                "GoldenEagle_6"
+            ],
+            "selected": "GoldenEagle_0"
+        },
+        {
+            "sub_type": "Chickadee",
+            "options": [
+                "Chickadee_0",
+                "Chickadee_1",
+                "Chickadee_2",
+                "Chickadee_3",
+                "Chickadee_4",
+                "Chickadee_5"
+            ],
+            "selected": "Chickadee_0"
+        },
+        {
+            "sub_type": "Katydid",
+            "options": [
+                "Katydid_0",
+                "Katydid_1",
+                "Katydid_2",
+                "Katydid_3"
+            ],
+            "selected": "Katydid_0"
+        },
+        {
+            "sub_type": "DesertLocust",
+            "options": [
+                "DesertLocust_0",
+                "DesertLocust_1",
+                "DesertLocust_2",
+                "DesertLocust_3"
+            ],
+            "selected": "DesertLocust_0"
+        },
+        {
+            "sub_type": "ShieldMantis",
+            "options": [
+                "ShieldMantis_0",
+                "ShieldMantis_1",
+                "ShieldMantis_2",
+                "ShieldMantis_3"
+            ],
+            "selected": "ShieldMantis_0"
+        },
+        {
+            "sub_type": "OrchidMantis",
+            "options": [
+                "OrchidMantis_0",
+                "OrchidMantis_1",
+                "OrchidMantis_2"
+            ],
+            "selected": "OrchidMantis_0"
+        },
+        {
+            "sub_type": "EuropeanMantis",
+            "options": [
+                "EuropeanMantis_0",
+                "EuropeanMantis_1",
+                "EuropeanMantis_2"
+            ],
+            "selected": "EuropeanMantis_0"
+        },
+        {
+            "sub_type": "LeafInsect",
+            "options": [
+                "LeafInsect_0",
+                "LeafInsect_1",
+                "LeafInsect_2",
+                "LeafInsect_3",
+                "LeafInsect_4"
+            ],
+            "selected": "LeafInsect_0"
+        },
+        {
+            "sub_type": "GiantWalkingStick",
+            "options": [
+                "GiantWalkingStick_0",
+                "GiantWalkingStick_1",
+                "GiantWalkingStick_2"
+            ],
+            "selected": "GiantWalkingStick_0"
+        },
+        {
+            "sub_type": "HissingCockroach",
+            "options": [
+                "HissingCockroach_0",
+                "HissingCockroach_1"
+            ],
+            "selected": "HissingCockroach_0"
+        },
+        {
+            "sub_type": "MoleCricket",
+            "options": [
+                "MoleCricket_0",
+                "MoleCricket_1",
+                "MoleCricket_2",
+                "MoleCricket_3"
+            ],
+            "selected": "MoleCricket_0"
+        },
+        {
+            "sub_type": "HerculesBeetle",
+            "options": [
+                "HerculesBeetle_0",
+                "HerculesBeetle_1",
+                "HerculesBeetle_2"
+            ],
+            "selected": "HerculesBeetle_0"
+        },
+        {
+            "sub_type": "BombardierBeetle",
+            "options": [
+                "BombardierBeetle_0",
+                "BombardierBeetle_1"
+            ],
+            "selected": "BombardierBeetle_0"
+        },
+        {
+            "sub_type": "Firefly",
+            "options": [
+                "Firefly_0",
+                "Firefly_1",
+                "Firefly_2"
+            ],
+            "selected": "Firefly_0"
+        },
+        {
+            "sub_type": "LonghornBeetle",
+            "options": [
+                "LonghornBeetle_0",
+                "LonghornBeetle_1",
+                "LonghornBeetle_2"
+            ],
+            "selected": "LonghornBeetle_0"
+        },
+        {
+            "sub_type": "LadyBug",
+            "options": [
+                "LadyBug_0",
+                "LadyBug_1",
+                "LadyBug_2",
+                "LadyBug_3"
+            ],
+            "selected": "LadyBug_0"
+        },
+        {
+            "sub_type": "GoliathBeetle",
+            "options": [
+                "GoliathBeetle_0",
+                "GoliathBeetle_1",
+                "GoliathBeetle_2",
+                "GoliathBeetle_3",
+                "GoliathBeetle_4"
+            ],
+            "selected": "GoliathBeetle_0"
+        },
+        {
+            "sub_type": "GiraffeBeetle",
+            "options": [
+                "GiraffeBeetle_0",
+                "GiraffeBeetle_2",
+                "GiraffeBeetle_3",
+                "GiraffeBeetle_1",
+                "GiraffeBeetle_5",
+                "GiraffeBeetle_4"
+            ],
+            "selected": "GiraffeBeetle_0"
+        },
+        {
+            "sub_type": "DungBeetle",
+            "options": [
+                "DungBeetle_0",
+                "DungBeetle_1",
+                "DungBeetle_2",
+                "DungBeetle_3"
+            ],
+            "selected": "DungBeetle_0"
+        },
+        {
+            "sub_type": "SpiderBeetle",
+            "options": [
+                "SpiderBeetle_0",
+                "SpiderBeetle_1",
+                "SpiderBeetle_3",
+                "SpiderBeetle_2"
+            ],
+            "selected": "SpiderBeetle_0"
+        },
+        {
+            "sub_type": "GrizzlyBear",
+            "options": [
+                "GrizzlyBear_0",
+                "GrizzlyBear_1",
+                "GrizzlyBear_2",
+                "GrizzlyBear_6",
+                "GrizzlyBear_4",
+                "GrizzlyBear_5",
+                "GrizzlyBear_3",
+                "GrizzlyBear_7"
+            ],
+            "selected": "GrizzlyBear_0"
+        },
+        {
+            "sub_type": "HoodedSkunk",
+            "options": [
+                "HoodedSkunk_0",
+                "HoodedSkunk_1",
+                "HoodedSkunk_2",
+                "HoodedSkunk_3"
+            ],
+            "selected": "HoodedSkunk_0"
+        },
+        {
+            "sub_type": "PolarBear",
+            "options": [
+                "PolarBear_0",
+                "PolarBear_1",
+                "PolarBear_5",
+                "PolarBear_3",
+                "PolarBear_2",
+                "PolarBear_4",
+                "PolarBear_6",
+                "PolarBear_7"
+            ],
+            "selected": "PolarBear_0"
+        },
+        {
+            "sub_type": "BlackBear",
+            "options": [
+                "BlackBear_0",
+                "BlackBear_1",
+                "BlackBear_2",
+                "BlackBear_4",
+                "BlackBear_7",
+                "BlackBear_3",
+                "BlackBear_5",
+                "BlackBear_6",
+                "BlackBear_8"
+            ],
+            "selected": "BlackBear_0"
+        },
+        {
+            "sub_type": "Koala",
+            "options": [
+                "Koala_0",
+                "Koala_1",
+                "Koala_2",
+                "Koala_3",
+                "Koala_5",
+                "Koala_4"
+            ],
+            "selected": "Koala_0"
+        },
+        {
+            "sub_type": "GiantPanda",
+            "options": [
+                "GiantPanda_0",
+                "GiantPanda_1",
+                "GiantPanda_2",
+                "GiantPanda_6",
+                "GiantPanda_4",
+                "GiantPanda_5",
+                "GiantPanda_3",
+                "GiantPanda_7",
+                "GiantPanda_8"
+            ],
+            "selected": "GiantPanda_0"
+        },
+        {
+            "sub_type": "Wolf",
+            "options": [
+                "Wolf_0",
+                "Wolf_1",
+                "Wolf_2",
+                "Wolf_3",
+                "Wolf_4",
+                "Wolf_5",
+                "Wolf_6",
+                "Wolf_7"
+            ],
+            "selected": "Wolf_0"
+        },
+        {
+            "sub_type": "BatEaredFox",
+            "options": [
+                "BatEaredFox_0",
+                "BatEaredFox_1",
+                "BatEaredFox_2",
+                "BatEaredFox_3"
+            ],
+            "selected": "BatEaredFox_0"
+        },
+        {
+            "sub_type": "AfricanWildDog",
+            "options": [
+                "AfricanWildDog_0",
+                "AfricanWildDog_1",
+                "AfricanWildDog_2",
+                "AfricanWildDog_3"
+            ],
+            "selected": "AfricanWildDog_0"
+        },
+        {
+            "sub_type": "Chlorotoxin",
+            "options": [
+                "Chlorotoxin_0"
+            ],
+            "selected": "Chlorotoxin_0"
+        },
+        {
+            "sub_type": "MildPoison",
+            "options": [
+                "MildPoison_0"
+            ],
+            "selected": "MildPoison_0"
+        },
+        {
+            "sub_type": "Batrachotoxin",
+            "options": [
+                "Batrachotoxin_0"
+            ],
+            "selected": "Batrachotoxin_0"
+        },
+        {
+            "sub_type": "HiveDurability",
+            "options": [
+                "HiveDurability_0"
+            ],
+            "selected": "HiveDurability_0"
+        },
+        {
+            "sub_type": "Shoal",
+            "options": [
+                "Shoal_0"
+            ],
+            "selected": "Shoal_0"
+        },
+        {
+            "sub_type": "Airborne",
+            "options": [
+                "Airborne_0"
+            ],
+            "selected": "Airborne_0"
+        },
+        {
+            "sub_type": "AcridSlimeSkin",
+            "options": [
+                "AcridSlimeSkin_0"
+            ],
+            "selected": "AcridSlimeSkin_0"
+        },
+        {
+            "sub_type": "ThickBlubber",
+            "options": [
+                "ThickBlubber_0"
+            ],
+            "selected": "ThickBlubber_0"
+        },
+        {
+            "sub_type": "Tetrodotoxin",
+            "options": [
+                "Tetrodotoxin_0"
+            ],
+            "selected": "Tetrodotoxin_0"
+        },
+        {
+            "sub_type": "Flock",
+            "options": [
+                "Flock_0"
+            ],
+            "selected": "Flock_0"
+        },
+        {
+            "sub_type": "Cytotoxin",
+            "options": [
+                "Cytotoxin_0"
+            ],
+            "selected": "Cytotoxin_0"
+        },
+        {
+            "sub_type": "EntangledWeb",
+            "options": [
+                "EntangledWeb_0"
+            ],
+            "selected": "EntangledWeb_0"
+        },
+        {
+            "sub_type": "Submerged",
+            "options": [
+                "Submerged_0"
+            ],
+            "selected": "Submerged_0"
+        },
+        {
+            "sub_type": "Protected",
+            "options": [
+                "Protected_0"
+            ],
+            "selected": "Protected_0"
+        },
+        {
+            "sub_type": "InkSpray",
+            "options": [
+                "InkSpray_0"
+            ],
+            "selected": "InkSpray_0"
+        },
+        {
+            "sub_type": "NeurotoxicPeptides",
+            "options": [
+                "NeurotoxicPeptides_0"
+            ],
+            "selected": "NeurotoxicPeptides_0"
+        },
+        {
+            "sub_type": "CoralProtection",
+            "options": [
+                "CoralProtection_0"
+            ],
+            "selected": "CoralProtection_0"
+        },
+        {
+            "sub_type": "AnemoneAttachment",
+            "options": [
+                "AnemoneAttachment_0"
+            ],
+            "selected": "AnemoneAttachment_0"
+        },
+        {
+            "sub_type": "Burrowed",
+            "options": [
+                "Burrowed_0"
+            ],
+            "selected": "Burrowed_0"
+        },
+        {
+            "sub_type": "ShellArmor",
+            "options": [
+                "ShellArmor_0"
+            ],
+            "selected": "ShellArmor_0"
+        },
+        {
+            "sub_type": "MolluskMucus",
+            "options": [
+                "MolluskMucus_0"
+            ],
+            "selected": "MolluskMucus_0"
+        },
+        {
+            "sub_type": "CorrosiveSpitStatus",
+            "options": [
+                "CorrosiveSpitStatus_0"
+            ],
+            "selected": "CorrosiveSpitStatus_0"
+        },
+        {
+            "sub_type": "JadeNecklace",
+            "options": [
+                "JadeNecklace_0"
+            ],
+            "selected": "JadeNecklace_0"
+        },
+        {
+            "sub_type": "Meteor",
+            "options": [
+                "Meteor_0"
+            ],
+            "selected": "Meteor_0"
+        },
+        {
+            "sub_type": "LivyatanFossil",
+            "options": [
+                "LivyatanFossil_0"
+            ],
+            "selected": "LivyatanFossil_0"
+        },
+        {
+            "sub_type": "CrystalBall",
+            "options": [
+                "CrystalBall_0",
+                "CrystalBall_1"
+            ],
+            "selected": "CrystalBall_0"
+        },
+        {
+            "sub_type": "MemberShipCard",
+            "options": [
+                "MemberShipCard_0"
+            ],
+            "selected": "MemberShipCard_0"
+        },
+        {
+            "sub_type": "Dice",
+            "options": [
+                "Dice_0"
+            ],
+            "selected": "Dice_0"
+        },
+        {
+            "sub_type": "AmazonPrime",
+            "options": [
+                "AmazonPrime_0",
+                "AmazonPrime_1"
+            ],
+            "selected": "AmazonPrime_0"
+        },
+        {
+            "sub_type": "ChumBucket",
+            "options": [
+                "ChumBucket_0"
+            ],
+            "selected": "ChumBucket_0"
+        },
+        {
+            "sub_type": "PerfectCopy",
+            "options": [
+                "PerfectCopy_0"
+            ],
+            "selected": "PerfectCopy_0"
+        },
+        {
+            "sub_type": "ArmorSuit",
+            "options": [
+                "ArmorSuit_0",
+                "ArmorSuit_1"
+            ],
+            "selected": "ArmorSuit_0"
+        },
+        {
+            "sub_type": "GraduationCap",
+            "options": [
+                "GraduationCap_0"
+            ],
+            "selected": "GraduationCap_0"
+        },
+        {
+            "sub_type": "CorrosiveSpit",
+            "options": [
+                "CorrosiveSpit_0"
+            ],
+            "selected": "CorrosiveSpit_0"
+        },
+        {
+            "sub_type": "MedKit",
+            "options": [
+                "MedKit_0"
+            ],
+            "selected": "MedKit_0"
+        },
+        {
+            "sub_type": "RustedAnchor",
+            "options": [
+                "RustedAnchor_0"
+            ],
+            "selected": "RustedAnchor_0"
+        },
+        {
+            "sub_type": "Eruption",
+            "options": [
+                "Eruption_0"
+            ],
+            "selected": "Eruption_0"
+        },
+        {
+            "sub_type": "LightningRaigeki",
+            "options": [
+                "LightningRaigeki_0"
+            ],
+            "selected": "LightningRaigeki_0"
+        },
+        {
+            "sub_type": "ProtectiveCanopy",
+            "options": [
+                "ProtectiveCanopy_0"
+            ],
+            "selected": "ProtectiveCanopy_0"
+        },
+        {
+            "sub_type": "TreasureChest",
+            "options": [
+                "TreasureChest_0"
+            ],
+            "selected": "TreasureChest_0"
+        },
+        {
+            "sub_type": "GreatBarrierReef",
+            "options": [
+                "GreatBarrierReef_0"
+            ],
+            "selected": "GreatBarrierReef_0"
+        },
+        {
+            "sub_type": "AnemoneAllies",
+            "options": [
+                "AnemoneAllies_0"
+            ],
+            "selected": "AnemoneAllies_0"
+        },
+        {
+            "sub_type": "RubyRock",
+            "options": [
+                "RubyRock_0"
+            ],
+            "selected": "RubyRock_0"
+        },
+        {
+            "sub_type": "SapphireShell",
+            "options": [
+                "SapphireShell_0"
+            ],
+            "selected": "SapphireShell_0"
+        },
+        {
+            "sub_type": "AmberAmulet",
+            "options": [
+                "AmberAmulet_0",
+                "AmberAmulet_1"
+            ],
+            "selected": "AmberAmulet_0"
+        },
+        {
+            "sub_type": "PinkOpal",
+            "options": [
+                "PinkOpal_0"
+            ],
+            "selected": "PinkOpal_0"
+        },
+        {
+            "sub_type": "Chainsaw",
+            "options": [
+                "Chainsaw_0",
+                "Chainsaw_1"
+            ],
+            "selected": "Chainsaw_0"
+        },
+        {
+            "sub_type": "Rifle",
+            "options": [
+                "Rifle_0"
+            ],
+            "selected": "Rifle_0"
+        },
+        {
+            "sub_type": "PlasmaShield",
+            "options": [
+                "PlasmaShield_0"
+            ],
+            "selected": "PlasmaShield_0"
+        },
+        {
+            "sub_type": "Fountain",
+            "options": [
+                "Fountain_0"
+            ],
+            "selected": "Fountain_0"
+        },
+        {
+            "sub_type": "JUUL",
+            "options": [
+                "JUUL_0"
+            ],
+            "selected": "JUUL_0"
+        },
+        {
+            "sub_type": "Fork",
+            "options": [
+                "Fork_0"
+            ],
+            "selected": "Fork_0"
+        },
+        {
+            "sub_type": "SpitBall",
+            "options": [
+                "SpitBall_0"
+            ],
+            "selected": "SpitBall_0"
+        },
+        {
+            "sub_type": "SunScreen",
+            "options": [
+                "SunScreen_0"
+            ],
+            "selected": "SunScreen_0"
+        },
+        {
+            "sub_type": "VitaminWater",
+            "options": [
+                "VitaminWater_0"
+            ],
+            "selected": "VitaminWater_0"
+        },
+        {
+            "sub_type": "NicotinePatch",
+            "options": [
+                "NicotinePatch_0"
+            ],
+            "selected": "NicotinePatch_0"
+        },
+        {
+            "sub_type": "GeneEditing",
+            "options": [
+                "GeneEditing_0"
+            ],
+            "selected": "GeneEditing_0"
+        },
+        {
+            "sub_type": "Sandstorm",
+            "options": [
+                "Sandstorm_0"
+            ],
+            "selected": "Sandstorm_0"
+        },
+        {
+            "sub_type": "TropicalThunderstorm",
+            "options": [
+                "TropicalThunderstorm_0"
+            ],
+            "selected": "TropicalThunderstorm_0"
+        },
+        {
+            "sub_type": "Vengeance",
+            "options": [
+                "Vengeance_0"
+            ],
+            "selected": "Vengeance_0"
+        },
+        {
+            "sub_type": "SkunkSpray",
+            "options": [
+                "SkunkSpray_0"
+            ],
+            "selected": "SkunkSpray_0"
+        },
+        {
+            "sub_type": "Camouflage",
+            "options": [
+                "Camouflage_0"
+            ],
+            "selected": "Camouflage_0"
+        },
+        {
+            "sub_type": "EntrenchedDugout",
+            "options": [
+                "EntrenchedDugout_0"
+            ],
+            "selected": "EntrenchedDugout_0"
+        },
+        {
+            "sub_type": "IncendiaryMaterial",
+            "options": [
+                "IncendiaryMaterial_0"
+            ],
+            "selected": "IncendiaryMaterial_0"
+        },
+        {
+            "sub_type": "Carapace",
+            "options": [
+                "Carapace_0"
+            ],
+            "selected": "Carapace_0"
+        },
+        {
+            "sub_type": "ElectricEel",
+            "options": [
+                "ElectricEel_0",
+                "ElectricEel_1",
+                "ElectricEel_2"
+            ],
+            "selected": "ElectricEel_0"
+        },
+        {
+            "sub_type": "Lionfish",
+            "options": [
+                "Lionfish_0",
+                "Lionfish_1"
+            ],
+            "selected": "Lionfish_0"
+        },
+        {
+            "sub_type": "GreenlandShark",
+            "options": [
+                "GreenlandShark_0",
+                "GreenlandShark_2",
+                "GreenlandShark_1",
+                "GreenlandShark_3",
+                "GreenlandShark_4"
+            ],
+            "selected": "GreenlandShark_0"
+        },
+        {
+            "sub_type": "ShortTailStingray",
+            "options": [
+                "ShortTailStingray_0",
+                "ShortTailStingray_1",
+                "ShortTailStingray_2",
+                "ShortTailStingray_3"
+            ],
+            "selected": "ShortTailStingray_0"
+        },
+        {
+            "sub_type": "HoneyPotAnt",
+            "options": [
+                "HoneyPotAnt_0",
+                "HoneyPotAnt_1",
+                "HoneyPotAnt_2"
+            ],
+            "selected": "HoneyPotAnt_0"
+        },
+        {
+            "sub_type": "FireAnt",
+            "options": [
+                "FireAnt_0",
+                "FireAnt_1"
+            ],
+            "selected": "FireAnt_0"
+        },
+        {
+            "sub_type": "BombusPolaris",
+            "options": [
+                "BombusPolaris_0",
+                "BombusPolaris_1",
+                "BombusPolaris_2"
+            ],
+            "selected": "BombusPolaris_0"
+        },
+        {
+            "sub_type": "PilotWhale",
+            "options": [
+                "PilotWhale_0",
+                "PilotWhale_1",
+                "PilotWhale_2"
+            ],
+            "selected": "PilotWhale_0"
+        },
+        {
+            "sub_type": "AmazonRiverDolphin",
+            "options": [
+                "AmazonRiverDolphin_0",
+                "AmazonRiverDolphin_1",
+                "AmazonRiverDolphin_2"
+            ],
+            "selected": "AmazonRiverDolphin_0"
+        },
+        {
+            "sub_type": "Hippopotamus",
+            "options": [
+                "Hippopotamus_0",
+                "Hippopotamus_1",
+                "Hippopotamus_3",
+                "Hippopotamus_2",
+                "Hippopotamus_4",
+                "Hippopotamus_5",
+                "Hippopotamus_6"
+            ],
+            "selected": "Hippopotamus_0"
+        },
+        {
+            "sub_type": "EmperorPenguin",
+            "options": [
+                "EmperorPenguin_0",
+                "EmperorPenguin_1",
+                "EmperorPenguin_2",
+                "EmperorPenguin_3",
+                "EmperorPenguin_4"
+            ],
+            "selected": "EmperorPenguin_0"
+        },
+        {
+            "sub_type": "MacaroniPenguin",
+            "options": [
+                "MacaroniPenguin_0",
+                "MacaroniPenguin_1"
+            ],
+            "selected": "MacaroniPenguin_0"
+        },
+        {
+            "sub_type": "ShoeBill",
+            "options": [
+                "ShoeBill_0",
+                "ShoeBill_1",
+                "ShoeBill_2",
+                "ShoeBill_3"
+            ],
+            "selected": "ShoeBill_0"
+        },
+        {
+            "sub_type": "NoselessMonkey",
+            "options": [
+                "NoselessMonkey_0",
+                "NoselessMonkey_1",
+                "NoselessMonkey_2",
+                "NoselessMonkey_3"
+            ],
+            "selected": "NoselessMonkey_0"
+        },
+        {
+            "sub_type": "NembrothaAurea",
+            "options": [
+                "NembrothaAurea_0",
+                "NembrothaAurea_1"
+            ],
+            "selected": "NembrothaAurea_0"
+        },
+        {
+            "sub_type": "DivingBellSpider",
+            "options": [
+                "DivingBellSpider_0",
+                "DivingBellSpider_1",
+                "DivingBellSpider_2"
+            ],
+            "selected": "DivingBellSpider_0"
+        },
+        {
+            "sub_type": "CaribbeanReefSquid",
+            "options": [
+                "CaribbeanReefSquid_0",
+                "CaribbeanReefSquid_1",
+                "CaribbeanReefSquid_2",
+                "CaribbeanReefSquid_3"
+            ],
+            "selected": "CaribbeanReefSquid_0"
+        },
+        {
+            "sub_type": "KomodoDragon",
+            "options": [
+                "KomodoDragon_1",
+                "KomodoDragon_0",
+                "KomodoDragon_2",
+                "KomodoDragon_3"
+            ],
+            "selected": "KomodoDragon_0"
+        },
+        {
+            "sub_type": "BlackMamba",
+            "options": [
+                "BlackMamba_0",
+                "BlackMamba_1",
+                "BlackMamba_2",
+                "BlackMamba_3"
+            ],
+            "selected": "BlackMamba_0"
+        },
+        {
+            "sub_type": "ArcticFox",
+            "options": [
+                "ArcticFox_0",
+                "ArcticFox_1",
+                "ArcticFox_2",
+                "ArcticFox_3",
+                "ArcticFox_4"
+            ],
+            "selected": "ArcticFox_0"
+        },
+        {
+            "sub_type": "BlueSpottedSalamander",
+            "options": [
+                "BlueSpottedSalamander_0",
+                "BlueSpottedSalamander_1",
+                "BlueSpottedSalamander_2",
+                "BlueSpottedSalamander_3"
+            ],
+            "selected": "BlueSpottedSalamander_0"
+        },
+        {
+            "sub_type": "AmericanLobster",
+            "options": [
+                "AmericanLobster_0",
+                "AmericanLobster_1"
+            ],
+            "selected": "AmericanLobster_0"
+        },
+        {
+            "sub_type": "NeuromuscularToxin",
+            "options": [
+                "NeuromuscularToxin_0"
+            ],
+            "selected": "NeuromuscularToxin_0"
+        },
+        {
+            "sub_type": "Diving",
+            "options": [
+                "Diving_0"
+            ],
+            "selected": "Diving_0"
+        },
+        {
+            "sub_type": "Dendrotoxin",
+            "options": [
+                "Dendrotoxin_0"
+            ],
+            "selected": "Dendrotoxin_0"
+        },
+        {
+            "sub_type": "Bacteria",
+            "options": [
+                "Bacteria_0"
+            ],
+            "selected": "Bacteria_0"
+        }
+    ]
+}
